@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "6cc8bdec5fbbf37c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c6a13fa608001f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "889fa5f35c2bb035",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ava - Getting Started.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a59d9293dcbfe4f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "852c3513fb7746a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe4d88a3aad10220",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfff43e6b018cd46",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3215a3c5030bc2a7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c91e31f147f86c20",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "15c3913bb913d029",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5d316722bc15583",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "174bc7436b93c268",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ava - Getting Started.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d09c5bed6540a565",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ava - Getting Started.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "add4ead312c1b631",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9b00777040e26278",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ava - Getting Started.md"
+              }
+            }
+          },
+          {
+            "id": "6e6c903e22d1b68e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "1a53a8ede47a7f81",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "50b0a2f6a2862b0b",
+            "type": "leaf",
+            "state": {
+              "type": "pomodoro-history-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 467.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "ava:Ava": false,
+      "ava:Ava - Show Links": false,
+      "ava:Ava - Open Rewrite Playground": false,
+      "copilot:Copilot Chat": false,
+      "awesome-brain-manager:Awesome Brain Manager": false
+    }
+  },
+  "active": "889fa5f35c2bb035",
+  "lastOpenFiles": [
+    "Grace Arcs/The Duke/People/The Duke.md",
+    "Ava - Getting Started.md",
+    "10000 years ago.md",
+    "Gods.md",
+    "I need a hero.md",
+    "Pasted image 20240503101735.png",
+    "Pasted image 20240503104812.png",
+    "Grace Arcs/The Duke/Locations/Dertona.md",
+    "Grace Arcs/The Duke/The Duke of Naught.md",
+    "Grace Arcs/The Duke/Locations",
+    "Grace Arcs/The Duke/People",
+    "Grace Arcs/The Duke",
+    "Grace Arcs/Da Spyte Kellers.md",
+    "Grace Arcs/Dreamwalker.md",
+    "Vesper Nightshade.png",
+    "Pasted image 20240327034242.png",
+    "The Central Wastes/Untitled.md",
+    "Dragon Of Icespire/Dragon Of Icespire Characters.md",
+    "Untitled.md",
+    "Grace Arcs",
+    "Mosiheimr/New Haast/Phandalin.md",
+    "Mosiheimr/East Apiara/Untitled.md",
+    "Mosiheimr/New Haast",
+    "Mosiheimr/East Apiara",
+    "The Church Of The Union.md",
+    "Intro Text.md",
+    "The Central Wastes",
+    "Bjorn the SkullFister.md",
+    "Toscana/Marcus Aurelius.md",
+    "Lucius Stonecrafter.png",
+    "Toscana/Tiberia.md",
+    "Toscana/The Toscana Army.md",
+    "Toscana/The Three Factions.md",
+    "Toscana/The Quintus Rebellion.md",
+    "Toscana/The Maximus Alliance.md",
+    "Diseases/Hoblefoot.md",
+    "Diseases",
+    "Nassarau/Nassarau.md",
+    "Pasted image 20231209001045.png",
+    "Pasted image 20231209000624.png",
+    "Pasted image 20231209000325.png",
+    "Haast",
+    "Volsca",
+    "Players/Roberts character.md",
+    "Pasted image 20231209001343.png",
+    "Maximus Aurellius.png"
+  ]
+}

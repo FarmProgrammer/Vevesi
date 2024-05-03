@@ -1,0 +1,8 @@
+[[Stabulum]]
+[[Lanciarus]]
+[[Hippodromus]]
+[[Cavalium]]
+[[Frenarum]]
+[[Equitopolis]]
+[[Eqorum]]
+[[Equites]]
