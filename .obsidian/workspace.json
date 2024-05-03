@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ava - Getting Started.md",
+                "file": "Grace Arcs/The Duke/Generics/Town Militia.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ava - Getting Started.md",
+                "file": "Grace Arcs/The Duke/Generics/Town Militia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ava - Getting Started.md",
+                "file": "Grace Arcs/The Duke/Generics/Town Militia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ava - Getting Started.md"
+                "file": "Grace Arcs/The Duke/Generics/Town Militia.md"
               }
             }
           },
@@ -181,16 +181,23 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "awesome-brain-manager:Awesome Brain Manager": false,
       "ava:Ava": false,
       "ava:Ava - Show Links": false,
       "ava:Ava - Open Rewrite Playground": false,
-      "copilot:Copilot Chat": false,
-      "awesome-brain-manager:Awesome Brain Manager": false
+      "copilot:Copilot Chat": false
     }
   },
   "active": "889fa5f35c2bb035",
   "lastOpenFiles": [
+    "Grace Arcs/The Duke/Generics/The Duke's Enforcers.md",
+    "Grace Arcs/The Duke/Generics/Town Militia.md",
+    "Grace Arcs/The Duke/Generics/The Dukes Retinue.md",
     "Grace Arcs/The Duke/People/The Duke.md",
+    "Grace Arcs/The Duke/Generics",
+    "Grace Arcs/The Duke/Locations/The Ghostheart Mechanism.md",
+    "Grace Arcs/The Duke/The Duke of Naught.md",
+    "Pasted image 20231209000325.png",
     "Ava - Getting Started.md",
     "10000 years ago.md",
     "Gods.md",
@@ -198,7 +205,6 @@
     "Pasted image 20240503101735.png",
     "Pasted image 20240503104812.png",
     "Grace Arcs/The Duke/Locations/Dertona.md",
-    "Grace Arcs/The Duke/The Duke of Naught.md",
     "Grace Arcs/The Duke/Locations",
     "Grace Arcs/The Duke/People",
     "Grace Arcs/The Duke",
@@ -224,16 +230,10 @@
     "Toscana/The Toscana Army.md",
     "Toscana/The Three Factions.md",
     "Toscana/The Quintus Rebellion.md",
-    "Toscana/The Maximus Alliance.md",
-    "Diseases/Hoblefoot.md",
     "Diseases",
-    "Nassarau/Nassarau.md",
     "Pasted image 20231209001045.png",
     "Pasted image 20231209000624.png",
-    "Pasted image 20231209000325.png",
     "Haast",
-    "Volsca",
-    "Players/Roberts character.md",
     "Pasted image 20231209001343.png",
     "Maximus Aurellius.png"
   ]
