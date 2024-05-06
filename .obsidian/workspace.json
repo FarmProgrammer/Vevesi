@@ -4,30 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "7c6a13fa608001f4",
+        "id": "b440ea4dc05f14d2",
         "type": "tabs",
         "children": [
           {
-            "id": "889fa5f35c2bb035",
+            "id": "269aaca694a61d94",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grace Arcs/The Duke/Generics/Town Militia.md",
+                "file": "Grace Arcs/The Duke/People/The Duke.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6a59d9293dcbfe4f",
+            "id": "1c5a0ce6164a21f6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Nassarau/Nassarau.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grace Arcs/The Duke/Generics/Town Militia.md",
+                "file": "Nassarau/Nassarau.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grace Arcs/The Duke/Generics/Town Militia.md",
+                "file": "Nassarau/Nassarau.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grace Arcs/The Duke/Generics/Town Militia.md"
+                "file": "Nassarau/Nassarau.md"
               }
             }
           },
@@ -181,38 +186,52 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "awesome-brain-manager:Awesome Brain Manager": false,
       "ava:Ava": false,
       "ava:Ava - Show Links": false,
       "ava:Ava - Open Rewrite Playground": false,
-      "copilot:Copilot Chat": false
+      "copilot:Copilot Chat": false,
+      "awesome-brain-manager:Awesome Brain Manager": false
     }
   },
-  "active": "889fa5f35c2bb035",
+  "active": "1c5a0ce6164a21f6",
   "lastOpenFiles": [
-    "Grace Arcs/The Duke/Generics/The Duke's Enforcers.md",
-    "Grace Arcs/The Duke/Generics/Town Militia.md",
-    "Grace Arcs/The Duke/Generics/The Dukes Retinue.md",
-    "Grace Arcs/The Duke/People/The Duke.md",
-    "Grace Arcs/The Duke/Generics",
+    "Players/Roberts character.md",
+    "The Central Wastes/Untitled.md",
+    "Zoutport.md",
+    "Haast/Haast.md",
+    "Grace Arcs/The Duke/Ghostheart Amulet.md",
+    "Grace Arcs/The Duke/Generics/Ghostheart Protector.md",
     "Grace Arcs/The Duke/Locations/The Ghostheart Mechanism.md",
-    "Grace Arcs/The Duke/The Duke of Naught.md",
+    "Intro Text.md",
+    "Grace Arcs/The Duke/People/The Duke.md",
+    "Grace Arcs/The Duke/Locations/Tolosa.md",
+    "Grace Arcs/The Duke/Generics/Ghostheart Protector.png",
+    "Grace Arcs/The Duke/Locations/Dertona.md",
+    "Grace Arcs/The Duke/Statblocks/Revenant Bear Statblock.png",
+    "Pasted image 20240327034242.png",
+    "Grace Arcs/The Duke/Statblocks/Abductor Statblock.png",
+    "Pasted image 20240505062425.png",
+    "Pasted image 20240505062425 1.png",
+    "Grace Arcs/The Duke/People/Scary Duke.png",
     "Pasted image 20231209000325.png",
-    "Ava - Getting Started.md",
+    "Grace Arcs/The Duke/Statblocks/Shield Guardian Stablock.png",
+    "Pasted image 20240505063845.png",
+    "Grace Arcs/The Duke/Statblocks",
+    "Grace Arcs/The Duke/Untitled.md",
+    "Grace Arcs/The Duke/The Duke of Naught.md",
+    "Grace Arcs/The Duke/Generics/Town Militia.md",
+    "Grace Arcs/The Duke/Generics/The Duke's Enforcers.md",
+    "Grace Arcs/The Duke/Generics/The Dukes Retinue.md",
     "10000 years ago.md",
+    "Ava - Getting Started.md",
+    "Grace Arcs/The Duke/Generics",
     "Gods.md",
     "I need a hero.md",
-    "Pasted image 20240503101735.png",
-    "Pasted image 20240503104812.png",
-    "Grace Arcs/The Duke/Locations/Dertona.md",
     "Grace Arcs/The Duke/Locations",
     "Grace Arcs/The Duke/People",
     "Grace Arcs/The Duke",
     "Grace Arcs/Da Spyte Kellers.md",
     "Grace Arcs/Dreamwalker.md",
-    "Vesper Nightshade.png",
-    "Pasted image 20240327034242.png",
-    "The Central Wastes/Untitled.md",
     "Dragon Of Icespire/Dragon Of Icespire Characters.md",
     "Untitled.md",
     "Grace Arcs",
@@ -220,21 +239,7 @@
     "Mosiheimr/East Apiara/Untitled.md",
     "Mosiheimr/New Haast",
     "Mosiheimr/East Apiara",
-    "The Church Of The Union.md",
-    "Intro Text.md",
     "The Central Wastes",
-    "Bjorn the SkullFister.md",
-    "Toscana/Marcus Aurelius.md",
-    "Lucius Stonecrafter.png",
-    "Toscana/Tiberia.md",
-    "Toscana/The Toscana Army.md",
-    "Toscana/The Three Factions.md",
-    "Toscana/The Quintus Rebellion.md",
-    "Diseases",
-    "Pasted image 20231209001045.png",
-    "Pasted image 20231209000624.png",
-    "Haast",
-    "Pasted image 20231209001343.png",
-    "Maximus Aurellius.png"
+    "Diseases"
   ]
 }

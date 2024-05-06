@@ -7,6 +7,7 @@ Now the duke holds the remote towns in this region as his domain, and the people
 The Duke is a cunning creature, with a ferocious hunger. Devoid of its humanity the duke seeks primarily to keep his dominion over the forests in these hills and the people therein, holding a sizeable force of over 50 lycanthropes in his court.
 ## Abilities
 The Duke has the ability to see through tress, capable of stalking even the most experienced of hunters, and using those same tree to walk in through one and out through another.
+![[Scary Duke.png]]
 
-![[Pasted image 20240503101735.png]]
-![[Pasted image 20240503104812.png]]
+![[Duke Forward Facing.png]]
+![[The Duke Statblock.png]]

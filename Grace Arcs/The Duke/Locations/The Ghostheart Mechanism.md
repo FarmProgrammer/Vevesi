@@ -1,0 +1,1 @@
+The ghostheart mechanism was a machine made to protect the souls of soldiers native to the realm of conjuration from being consumed by felicity. It stayed functioning at a reduced capacity for millennia after the war took its toll. Now it is a derelict ruin left to collect dust several feet below the earth
