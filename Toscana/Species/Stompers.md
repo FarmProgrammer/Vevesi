@@ -1,0 +1,1 @@
+![[Stompers.png]]

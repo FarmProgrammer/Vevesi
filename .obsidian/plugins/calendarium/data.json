@@ -1,0 +1,267 @@
+{
+  "addToDefaultIfMissing": true,
+  "calendars": [
+    {
+      "name": "Vevesi",
+      "description": null,
+      "id": "ID_28ea9b283929",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Hvergelmirtag",
+            "id": "ID_d8ea5bba6bbb",
+            "number": null,
+            "abbreviation": "HVER"
+          },
+          {
+            "type": "day",
+            "name": "Sálhjoltag",
+            "id": "ID_c94a6bf849c9",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Fergstrtag",
+            "id": "ID_8ac9eabaeb38",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Verrtag",
+            "id": "ID_286a1bf8ab38",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Hveitag",
+            "id": "ID_dbe9f9c9292b",
+            "number": null,
+            "abbreviation": "HVEI"
+          },
+          {
+            "type": "day",
+            "name": "Hugarskepi",
+            "id": "ID_bb9848398be8",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Sortag",
+            "id": "ID_5829cb9b2878",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Modirtag",
+            "id": "ID_c8e9f91878cb",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Eldingtag",
+            "id": "ID_5ad9d99a7859",
+            "number": null
+          }
+        ],
+        "months": [
+          {
+            "name": "Lunoscol",
+            "type": "month",
+            "length": 53,
+            "id": "ID_4a5809da99ca",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Turnacol",
+            "type": "month",
+            "length": 54,
+            "id": "ID_9ae839da3a29",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Taalcol",
+            "type": "month",
+            "length": 53,
+            "id": "ID_aaca9a6b3988",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Letnacol",
+            "type": "month",
+            "length": 54,
+            "id": "ID_2a68c97ba88b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Tarnelcol",
+            "type": "month",
+            "length": 53,
+            "id": "ID_cb5a1a086b4b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Pheroscol",
+            "type": "month",
+            "length": 54,
+            "id": "ID_f818994a6828",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Ingruncol",
+            "type": "month",
+            "length": 54,
+            "id": "ID_598abb483beb",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [],
+        "displayMoons": true,
+        "displayDayNumber": false,
+        "leapDays": [],
+        "eras": [
+          {
+            "id": "ID_3ae9b91b5baa",
+            "isEvent": false,
+            "isStartingEra": false,
+            "name": "Age Of Rending",
+            "description": "",
+            "format": "Year {{year}} - {{era_name}}",
+            "date": {
+              "year": -683,
+              "month": 0,
+              "day": 1
+            },
+            "type": "era",
+            "category": null
+          },
+          {
+            "id": "ID_babbb85839eb",
+            "isEvent": false,
+            "isStartingEra": false,
+            "name": "Age of Seas",
+            "description": "",
+            "format": "Era year {{era_year}} (year {{year}}) - {{era_name}}",
+            "date": {
+              "year": -300,
+              "month": 0,
+              "day": 1
+            },
+            "type": "era",
+            "category": null
+          },
+          {
+            "id": "ID_39ab9a9b2989",
+            "isEvent": false,
+            "isStartingEra": false,
+            "name": "Age Of Strife",
+            "description": "",
+            "format": "Year {{year}} - {{era_name}}",
+            "date": {
+              "year": 1,
+              "month": 0,
+              "day": 1
+            },
+            "type": "era",
+            "category": null
+          }
+        ]
+      },
+      "current": {
+        "day": 14,
+        "month": 1,
+        "year": 2
+      },
+      "events": [
+        {
+          "name": "Forargelmirstag",
+          "description": "<p>A celebration mostly practiced in Aslava but that has spread to other countries as well, it is a celebration of life and familial ties, marked the true night, in which many stay inside with their family over this long dark period to lighten the world themselves in the absense of the sun.</p>",
+          "id": "1995180",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 25,
+            "year": null,
+            "month": 6
+          },
+          "category": "celebration",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Necroquake",
+          "description": "<p>Enraged by the faithlessness of Xavier Nagash unleashed energies of undeath throughout the south of aslava raising anything resembling a corpse for tens of miles around the epicentre.<br></p>",
+          "id": "1995181",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 27,
+            "year": 1,
+            "month": 6
+          },
+          "category": "major-event",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        }
+      ],
+      "categories": [
+        {
+          "name": "Celebration",
+          "id": "celebration",
+          "color": "#000000"
+        },
+        {
+          "name": "Major Event",
+          "id": "major-event",
+          "color": "#000000"
+        }
+      ],
+      "autoParse": false,
+      "path": [
+        "/"
+      ],
+      "supportInlineEvents": false,
+      "inlineEventTag": "#inline-events"
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_28ea9b283929",
+  "eventPreview": false,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false,
+    "savingEvent": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "version": {
+    "major": 1,
+    "minor": 3,
+    "patch": 3,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": false,
+  "askedAboutSync": false,
+  "syncBehavior": "Ask",
+  "inlineEventsTag": null,
+  "paths": []
+}

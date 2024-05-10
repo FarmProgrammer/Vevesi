@@ -1,0 +1,1 @@
+At tadhimya used to be a colony of [[Haast]] and is now the liberated half of the landmass it shares with [[Nassarau]].
