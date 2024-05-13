@@ -8,55 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "269aaca694a61d94",
+            "id": "a40af66a90d4d96f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grace Arcs/The Duke/People/The Duke.md",
+                "file": "Parcelsus.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1c5a0ce6164a21f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Haast/Cities/Zoutport/Zoutport.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "14fb1c1fb46cbbe9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Haast/Cities/Almkerk.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b840d9169f1b45f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Central Wastes/Species/Quoxelite.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97cd883fb5c52c3a",
+            "id": "1ce3e8cc0397d9ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -68,19 +32,15 @@
             }
           },
           {
-            "id": "1799671b5b90fc74",
+            "id": "98d40a7345cbc2cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Toscana/Species/Stompers.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -262,25 +222,42 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "97cd883fb5c52c3a",
+  "active": "1ce3e8cc0397d9ec",
   "lastOpenFiles": [
-    "Toscana/People/Maximus.md",
+    "Toscana/People/Quintus Resistance/Valentina Dolabella.md",
+    "Toscana/People/Quintus Resistance",
+    "Toscana/People/Imperius Royal Court/Marcus Jupiter.md",
+    "Toscana/People/Maximus Reach War Room",
     "Toscana/People/Lenore Falto.md",
-    "Toscana/People/Jupiter.md",
-    "Toscana/People/Aurelia Jupiter.md",
+    "Toscana/People/Imperius Royal Court/Alexander Helios.md",
+    "Toscana/People/Imperius Royal Court/Jupiter.md",
+    "Players/Tiffany Burns.png",
+    "Toscana/People/Imperius Royal Court",
+    "Players/Tiffany Burns.md",
+    "Parcelsus.png",
+    "Parcelsis.md",
+    "Parcelsus.md",
+    "Parcelsus Mask.png",
+    "Pasted image 20240327034242.png",
+    "Toscana/Marcus Aurelius.md",
+    "Toscana/Species/Stompers.md",
+    "Toscana/Toscana.md",
+    "Toscana/Clans/Clan Caelia.md",
+    "Toscana/Clans/Clan Valerius.md",
+    "Toscana/Regions/Valerius Province.md",
+    "The Central Wastes/Species/Quoxelite.md",
+    "Toscana/People/Maximus Reach War Room/Maximus.md",
+    "Toscana/People/Imperius Royal Court/Aurelia Jupiter.md",
     "At Tadhimiya/Species/Glitterfin.md",
     "Pasted image 20240509114434.png",
     "At Tadhimiya/Species",
     "The Central Wastes/Species/Xanthorin.md",
-    "Toscana/Species/Stompers.md",
     "Haast/Holidays",
     "Stompers.png",
     "The Central Wastes/Species/Xanthorin.png",
     "The Central Wastes/Species/Quoxelite.png",
-    "The Central Wastes/Species/Quoxelite.md",
     "The Central Wastes/The Wastes.md",
     "The Central Wastes/Species",
-    "Toscana/Toscana.md",
     "Aslava/Aslava.md",
     "Toscana/Species",
     "At Tadhimiya/At Tadhimiya.md",
@@ -291,24 +268,7 @@
     "Haast/Cities/Egmond aan Zee.md",
     "Haast/Cities/Woerden.md",
     "Haast/Cities/Winschoten.md",
-    "Haast/Cities/Kortehemmen.md",
-    "Haast/Cities/Holten.md",
-    "Haast/Cities/Vosham.md",
-    "Haast/Cities/Spaarndam.md",
-    "Haast/Cities/Hellouw.md",
-    "Haast/Cities/Tinte",
-    "Haast/Cities/Tinte/Tinte.md",
-    "Haast/Cities/Almkerk.md",
     "Pasted image 20240506083731.png",
-    "Haast/Cities/Zoutport/Zoutport.md",
-    "Grace Arcs/The Duke/People/The Duke.md",
-    "Haast/Cities/Zoutport",
-    "Haast/Cities",
-    "Nassarau/Nassarau.md",
-    "Grace Arcs/The Duke/Generics/Ghostheart Protector.png",
-    "Grace Arcs/The Duke/Statblocks/Revenant Bear Statblock.png",
-    "Pasted image 20240327034242.png",
-    "Grace Arcs/The Duke/Statblocks/Abductor Statblock.png",
-    "Pasted image 20240505062425.png"
+    "Grace Arcs/The Duke/Generics/Ghostheart Protector.png"
   ]
 }
