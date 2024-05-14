@@ -1,7 +1,7 @@
 #pc
 ### Age: 21
 ### Goals:
-#### 1 - Blow up everything.
+#### 1 - Find Parents
 #### 2 - Blow up her orphanage.
 
 #### 3 - Blow up the church.
