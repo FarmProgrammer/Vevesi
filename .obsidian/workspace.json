@@ -23,9 +23,11 @@
             "id": "1ce3e8cc0397d9ec",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Players/Tiffany Burns.png"
+                "file": "Grace Arcs/The Duke/Locations/Dertona.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -42,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intro Text.md",
+                "file": "Grace Arcs/The Duke/Locations/Dertona.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intro Text.md",
+                "file": "Grace Arcs/The Duke/Locations/Dertona.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intro Text.md"
+                "file": "Grace Arcs/The Duke/Locations/Dertona.md"
               }
             }
           },
@@ -224,19 +226,24 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "98d40a7345cbc2cb",
+  "active": "1ce3e8cc0397d9ec",
   "lastOpenFiles": [
-    "Glitterwing.png",
-    "Intro Text.md",
-    "Pasted image 20240515135419.png",
-    "Players/Sylberos Esothrel.md",
-    "Araluuen/Families/House Blakehaven.md",
+    "Grace Arcs/The Duke/Locations/Sancolis.md",
+    "Grace Arcs/The Duke/Locations/Tolosa.md",
     "Grace Arcs/The Duke/Locations/Dertona.md",
+    "Grace Arcs/The Duke/Locations/Untitled",
+    "Grace Arcs/The Duke/Locations/Ligna.md",
+    "Caithe Esothrel.md",
+    "Players/Sylberos Esothrel.md",
+    "Players/Tiffany Burns.png",
+    "Intro Text.md",
+    "Glitterwing.png",
+    "Pasted image 20240515135419.png",
+    "Araluuen/Families/House Blakehaven.md",
     "Grace Arcs/The Duke/People/The Duke.md",
     "Grace Arcs/The Duke/People/Scary Duke.png",
     "Players/Tiffany Burns.md",
     "Toscana/People/Imperius Royal Court/Parcelsus.md",
-    "Players/Tiffany Burns.png",
     "Toscana/People/Lenore Falto.md",
     "Toscana/People/Quintus Resistance/Valentina Dolabella.md",
     "Toscana/People/Quintus Resistance",
@@ -258,18 +265,14 @@
     "The Central Wastes/Species/Quoxelite.md",
     "Toscana/People/Maximus Reach War Room/Maximus.md",
     "Toscana/People/Imperius Royal Court/Aurelia Jupiter.md",
-    "At Tadhimiya/Species/Glitterfin.md",
     "At Tadhimiya/Species",
-    "The Central Wastes/Species/Xanthorin.md",
     "Haast/Holidays",
     "Stompers.png",
     "The Central Wastes/Species/Xanthorin.png",
     "The Central Wastes/Species/Quoxelite.png",
-    "The Central Wastes/The Wastes.md",
     "The Central Wastes/Species",
     "Toscana/Species",
     "Aslava",
-    "At Tadhimiya",
-    "Church Of The Union"
+    "At Tadhimiya"
   ]
 }

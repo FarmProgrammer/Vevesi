@@ -12,10 +12,10 @@ The first few infantrymen to get eviscerated by enemy catapults
 the allied cavalry encircling the right flank
 The royal Aaracokra guard encircling the left flank staying away from enemy bowmen
 enemy right flank getting goaded out of formation by mounted handgunners just to get shot by a second hidden unit of mounted handgunners
-quintus elite troops charge after first unit of mounted gunners down the hill, leaving peasants to the mercy of the second unit
+Quintus elite troops charge after first unit of mounted gunners down the hill, leaving peasants to the mercy of the second unit
 allied mounted soldiers clash with enemy conscripts and seem to be winning until a unit of bullriders charge through the conscripts into the mounted soldiers as longbowmen and riflemen harass enemies trying to further encircle mounted soldiers
 enemy left flank collapsing onto the entourage of the royal guard
-enemy quintus elites manage to hide in the forest and attempt to ambush allied backline
+enemy Quintus elites manage to hide in the forest and attempt to ambush allied backline
 central jupiter spearmen line falters after getting charged by enemy bullriders as men are tossed back by the sheer weight
 out of position enemy right flank begins to try to encircle jupiter army from their position attempiting to close in on jupiter gunners and archers
 2 units of jupiter spearmen get ambushed by hidden units of quintus peasants in the forest and fight surrounded
