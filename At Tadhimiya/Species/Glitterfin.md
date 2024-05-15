@@ -1,2 +1,2 @@
 Glitterfin are animals that came into being in the great sea recession that commenced the age of Seas, they appear as a turtle with wings instead of fins. The main particularity about this animal is their apparent immortality, some alive today since the first few were born
-![[Pasted image 20240509114434.png]]
+![[Glitterwing.png]]

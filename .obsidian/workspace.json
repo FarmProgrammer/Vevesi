@@ -33,8 +33,12 @@
             "id": "98d40a7345cbc2cb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Intro Text.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -104,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Intro Text.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Intro Text.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Intro Text.md"
+              }
             }
           },
           {
@@ -216,12 +224,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6d35e5937ad7b880",
+  "active": "98d40a7345cbc2cb",
   "lastOpenFiles": [
+    "Glitterwing.png",
+    "Intro Text.md",
+    "Pasted image 20240515135419.png",
+    "Players/Sylberos Esothrel.md",
+    "Araluuen/Families/House Blakehaven.md",
     "Grace Arcs/The Duke/Locations/Dertona.md",
     "Grace Arcs/The Duke/People/The Duke.md",
     "Grace Arcs/The Duke/People/Scary Duke.png",
-    "Players/Sylberos Esothrel.md",
     "Players/Tiffany Burns.md",
     "Toscana/People/Imperius Royal Court/Parcelsus.md",
     "Players/Tiffany Burns.png",
@@ -247,7 +259,6 @@
     "Toscana/People/Maximus Reach War Room/Maximus.md",
     "Toscana/People/Imperius Royal Court/Aurelia Jupiter.md",
     "At Tadhimiya/Species/Glitterfin.md",
-    "Pasted image 20240509114434.png",
     "At Tadhimiya/Species",
     "The Central Wastes/Species/Xanthorin.md",
     "Haast/Holidays",
@@ -256,13 +267,9 @@
     "The Central Wastes/Species/Quoxelite.png",
     "The Central Wastes/The Wastes.md",
     "The Central Wastes/Species",
-    "Aslava/Aslava.md",
     "Toscana/Species",
-    "At Tadhimiya/At Tadhimiya.md",
     "Aslava",
-    "Haast/Haast.md",
     "At Tadhimiya",
-    "Church Of The Union",
-    "Pasted image 20240506083731.png"
+    "Church Of The Union"
   ]
 }
