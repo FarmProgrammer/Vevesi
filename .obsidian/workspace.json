@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grace Arcs/The Duke/Locations/Dertona.md",
+                "file": "Grace Arcs/The Duke/Locations/Tolosa.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,12 +35,8 @@
             "id": "98d40a7345cbc2cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intro Text.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -110,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grace Arcs/The Duke/Locations/Dertona.md",
+                "file": "Grace Arcs/The Duke/Locations/Tolosa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grace Arcs/The Duke/Locations/Dertona.md",
+                "file": "Grace Arcs/The Duke/Locations/Tolosa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grace Arcs/The Duke/Locations/Dertona.md"
+                "file": "Grace Arcs/The Duke/Locations/Tolosa.md"
               }
             }
           },
@@ -228,15 +224,16 @@
   },
   "active": "1ce3e8cc0397d9ec",
   "lastOpenFiles": [
-    "Grace Arcs/The Duke/Locations/Sancolis.md",
-    "Grace Arcs/The Duke/Locations/Tolosa.md",
     "Grace Arcs/The Duke/Locations/Dertona.md",
+    "Grace Arcs/The Duke/Locations/Tolosa.md",
+    "Grace Arcs/The Duke/Locations/The Ghostheart Mechanism.md",
+    "Grace Arcs/The Duke/Locations/Sancolis.md",
+    "Intro Text.md",
     "Grace Arcs/The Duke/Locations/Untitled",
     "Grace Arcs/The Duke/Locations/Ligna.md",
     "Caithe Esothrel.md",
     "Players/Sylberos Esothrel.md",
     "Players/Tiffany Burns.png",
-    "Intro Text.md",
     "Glitterwing.png",
     "Pasted image 20240515135419.png",
     "Araluuen/Families/House Blakehaven.md",
@@ -264,7 +261,6 @@
     "Toscana/Regions/Valerius Province.md",
     "The Central Wastes/Species/Quoxelite.md",
     "Toscana/People/Maximus Reach War Room/Maximus.md",
-    "Toscana/People/Imperius Royal Court/Aurelia Jupiter.md",
     "At Tadhimiya/Species",
     "Haast/Holidays",
     "Stompers.png",

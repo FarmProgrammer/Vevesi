@@ -8,6 +8,16 @@ Dertona is a small village known for its Icewine, much appreciated by many noble
 
 ### [[Anatola Caecus]], runs the farms that the village relies on for food
 
+## Important Locations
+
+### [[Dertona Wine Cellar]]
+### [[Dertona water mill]]
+### [[Dertona Farmlands]]
+### [[Dertona Vine Terraces]]
 ## Notes
 ### [[Glacies Vinea]], the variety of grape vine grown in the terraces of dertona
 ### [[Primulium]], a festival celebrated on the third Hvermetistag of Turnacol and celebrates the breaking of the first, youngest cask in the cellar
+
+### [[Ultilium]], a festival celebrated on the third Hvermetistag of Pheroskol and celebrates the breaking of the Last, oldest cask in the cellar before the harvest season begins again
+
+### [[Ad Aetatem Iter]], a customary journey every young person in the local area is expected to undertake when they becoma a young adult to find someone to marry outside of the village to avoid incest
