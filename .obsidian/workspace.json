@@ -11,11 +11,9 @@
             "id": "a40af66a90d4d96f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Grace Arcs/The Duke/Locations/Dertona.md",
-                "mode": "source",
-                "source": false
+                "file": "Grace Arcs/The Duke/Statblocks/Abductor Statblock.png"
               }
             }
           },
@@ -25,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grace Arcs/The Duke/Locations/Tolosa.md",
+                "file": "Church Of The Union/Garek/The Sect of Shrikes.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,12 +33,24 @@
             "id": "98d40a7345cbc2cb",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Toscana/Toscana.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "291eb8c622fc7390",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -69,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hob",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grace Arcs/The Duke/Locations/Tolosa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grace Arcs/The Duke/Locations/Tolosa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +153,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Grace Arcs/The Duke/Locations/Tolosa.md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,7 +192,7 @@
               "state": {
                 "calendar": "ID_28ea9b283929",
                 "ephemeral": {
-                  "viewState": 1,
+                  "viewState": 0,
                   "displaying": {
                     "day": 14,
                     "month": 1,
@@ -222,24 +228,36 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "1ce3e8cc0397d9ec",
+  "active": "6d35e5937ad7b880",
   "lastOpenFiles": [
+    "Toscana/Toscana.md",
+    "Grace Arcs/The Duke/Locations/Sancolis.md",
+    "The Highroad.md",
+    "Pasted image 20231209000624.png",
+    "ToscanaRegions 1.png",
+    "Church Of The Union/Garek/The Sect of Shrikes.md",
+    "ToscanaRegions.png",
+    "Toscana/Marcus Aurelius.md",
+    "Toscana/Regions/Cities/Tiberia.md",
+    "Grace Arcs/The Duke/Statblocks/Abductor Statblock.png",
+    "Araluuen/Cities/Amberport.md",
     "Grace Arcs/The Duke/Locations/Dertona.md",
     "Grace Arcs/The Duke/Locations/Tolosa.md",
-    "Grace Arcs/The Duke/Locations/The Ghostheart Mechanism.md",
-    "Grace Arcs/The Duke/Locations/Sancolis.md",
+    "Toscana/People/Squad  Invicta XIII/Octavia Runestone.md",
+    "Eternum.md",
     "Intro Text.md",
-    "Grace Arcs/The Duke/Locations/Untitled",
+    "Gods.md",
+    "Church Of The Union/Garek",
+    "Players/Tiffany Burns.md",
+    "Players/Tiffany Burns.png",
     "Grace Arcs/The Duke/Locations/Ligna.md",
     "Caithe Esothrel.md",
-    "Players/Sylberos Esothrel.md",
-    "Players/Tiffany Burns.png",
     "Glitterwing.png",
     "Pasted image 20240515135419.png",
+    "Players/Sylberos Esothrel.md",
     "Araluuen/Families/House Blakehaven.md",
     "Grace Arcs/The Duke/People/The Duke.md",
     "Grace Arcs/The Duke/People/Scary Duke.png",
-    "Players/Tiffany Burns.md",
     "Toscana/People/Imperius Royal Court/Parcelsus.md",
     "Toscana/People/Lenore Falto.md",
     "Toscana/People/Quintus Resistance/Valentina Dolabella.md",
@@ -252,20 +270,8 @@
     "Toscana/People/Imperius Royal Court/Parcelsus.png",
     "Parcelsis.md",
     "Parcelsus Mask.png",
-    "Pasted image 20240327034242.png",
-    "Toscana/Marcus Aurelius.md",
-    "Toscana/Species/Stompers.md",
-    "Toscana/Toscana.md",
-    "Toscana/Clans/Clan Caelia.md",
-    "Toscana/Clans/Clan Valerius.md",
-    "Toscana/Regions/Valerius Province.md",
-    "The Central Wastes/Species/Quoxelite.md",
-    "Toscana/People/Maximus Reach War Room/Maximus.md",
     "At Tadhimiya/Species",
     "Haast/Holidays",
-    "Stompers.png",
-    "The Central Wastes/Species/Xanthorin.png",
-    "The Central Wastes/Species/Quoxelite.png",
     "The Central Wastes/Species",
     "Toscana/Species",
     "Aslava",
