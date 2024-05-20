@@ -45,8 +45,12 @@
             "id": "291eb8c622fc7390",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Players/Skender Costaguard.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -116,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Players/Skender Costaguard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Players/Skender Costaguard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +159,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Players/Skender Costaguard.md"
+              }
             }
           },
           {
@@ -228,8 +236,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6d35e5937ad7b880",
+  "active": "291eb8c622fc7390",
   "lastOpenFiles": [
+    "Gods.md",
+    "Players/Skender Costaguard.md",
+    "Players/Tiffany Burns.md",
+    "Grace Arcs/The Duke/Statblocks/Abductor Statblock.png",
     "Toscana/Toscana.md",
     "Grace Arcs/The Duke/Locations/Sancolis.md",
     "The Highroad.md",
@@ -239,16 +251,13 @@
     "ToscanaRegions.png",
     "Toscana/Marcus Aurelius.md",
     "Toscana/Regions/Cities/Tiberia.md",
-    "Grace Arcs/The Duke/Statblocks/Abductor Statblock.png",
     "Araluuen/Cities/Amberport.md",
     "Grace Arcs/The Duke/Locations/Dertona.md",
     "Grace Arcs/The Duke/Locations/Tolosa.md",
     "Toscana/People/Squad  Invicta XIII/Octavia Runestone.md",
     "Eternum.md",
     "Intro Text.md",
-    "Gods.md",
     "Church Of The Union/Garek",
-    "Players/Tiffany Burns.md",
     "Players/Tiffany Burns.png",
     "Grace Arcs/The Duke/Locations/Ligna.md",
     "Caithe Esothrel.md",
@@ -268,7 +277,6 @@
     "Toscana/People/Imperius Royal Court/Jupiter.md",
     "Toscana/People/Imperius Royal Court",
     "Toscana/People/Imperius Royal Court/Parcelsus.png",
-    "Parcelsis.md",
     "Parcelsus Mask.png",
     "At Tadhimiya/Species",
     "Haast/Holidays",
