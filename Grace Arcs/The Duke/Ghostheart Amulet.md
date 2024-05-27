@@ -1,1 +1,1 @@
-The are 2 remaining ghostheart amulets within the mountains, one belonging to a young lady in [[Tolosa]] and one in the grave of Aristides Laevinusin the ancestral grave in the outskirts of [[Dertona]].
+The are 2 remaining ghostheart amulets within the mountains, one belonging to a young lady in [[Tolosa]] called [[Cispia Galera]] and one in the grave of Aristides Laevinusin the ancestral grave in the outskirts of [[Dertona]].
