@@ -1,0 +1,1 @@
+The church of the union is the order that regulates the worship of the 10 gods in the main pantheon

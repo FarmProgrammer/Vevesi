@@ -1,3 +1,4 @@
+Araluuen is a england based fictional country heavily inspired by a country by the same name in the lone ranger
 Cities:
 	[[Cyradil]]
 	[[Silverhaven]]

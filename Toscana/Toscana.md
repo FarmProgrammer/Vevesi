@@ -55,7 +55,7 @@ While it has become somewhat diluted the demographics are as follows:
 	Jupiter: Aaracokra
 	Marcellus: High Elves
 	Maximus: Minotaurs
-	Quintus: Aaracokra
+	Quintus: Centaurs
 	Tulius: Centaurs
 	Valerius: Kobolds
 ### What are class boundaries based on?
