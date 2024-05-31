@@ -54,3 +54,6 @@
     
     - _Domain:_ War, Honour
     - _Description:_ Vorus is the relentless deity of war and honor, whose fury knows no bounds on the battlefield. Warriors, knights, and those who uphold principles of honor and valor invoke Vorus's name in battle, seeking strength and courage in the face of adversity. Yet, Vorus also demands respect for the rules of engagement and the code of honor that guides warriors in conflict.
+## The New Gods
+
+## The Lost Gods

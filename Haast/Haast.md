@@ -14,21 +14,27 @@ Haast, a small island to the west of [[Toscana]] and east of [[Araluuen]]. Despi
 - **Social Structure:** There is no official class structure within the country, however, due to its worship of money and trade Haast is often the homeplace of stark divides between the rich and poor.
 - **Language(s):** Haast is the birthplace of the language known as common and is the most commonly spoken language throughout the world.
 - **Religion(s):** Haast worships [[Geldrax]], the god of greed and gold and holds 3 of the largest cathedrals to him in the cities of [[Zoutport]], [[Vosham]] and [[Hellouw]].
-- **Culture:** Haast, as a country that worships money places greater value on material wealth than anything else
-- **Holidays and Festivals:** Does the country have any unique holidays or festivals?
+- **Culture:** Haast, as a country that worships money places greater value on material wealth than anything else has developed a individualistic ideology for its people. People from Haast are known to have little time and much to do. Restaurants that don't specifically serve the ultra wealthy are known to have timers for each table to speed up their patrons. The casinos of Haast never close and no city in the country ever truly sleeps.
+- **Holidays and Festivals:** 
+	- [[The Grand Auction]], a weeklong auction held in [[Zoutport]] at [[The Church of Barter]] headed by the [[High Priest of Geldrax]] that sees products be auctioned for enough money to fund cities for years.
+	- [[Investor's Day]], a late autumn day meant to celebrate entrepreneurship and returns for propositions, on this day it is custom for banks to offer temporarily discounted loans and for successful businesses to pay a large sum of profits to their shareholder, though often this is expected to come out of the common workers' pay to show their appreciation.
+	- [[Geldrax's Service]], a day that celebrates the god of greed and wealth. Every company is expected to pay monetary tribute to their patron god on this day, through [[The Church Of The Union]]. 
+	- [[Grand Market]], held once a month at the most profitable port within the trade network the grand market sells the most exotic goods acquired that month.
+	- [[Day of the Common Tongue]], a celebration as much practical as it is religious this is a celebration held offshore on a island made of interconnected merchant boats that sees every head of the [[Merchant Council]] make an appearance as well as invites to the leaders of every country within the known world.
+	- [[The Third Day of Devils]] is a celebration held in winter that is based off the wildly popular play of the same name written by [[Hans Verdont]].
 
 ## **III. History and Lore**
 
-- **Founding:** When and how was the country founded? Who were the key figures involved?
-- **Major Events:** Outline some of the major historical events that have shaped the country. Wars, rebellions, natural disasters, etc.
-- **Myths and Legends:** Does the country have any folktales, myths, or legends that shed light on its history or culture?
-- **Relationship with Other Countries:** How does the country interact with its neighbors? Are there any alliances, rivalries, or ongoing conflicts?
+- **Founding:** Haast started as a small feudal state and has history that goes back roughly 700 years before [[The Age of Discovery]]. It is suspected by historians in [[Araluuen]] and [[Toscana]] that the first settlers of Haast may have come from either of those landmasses with the founder of [[The Nassarau Family]] as there is archaeological elements to support a land bridge at some point between [[Araluuen]] going through [[Mansbridge Isle]] or a peninsula of mainland [[Toscana]] that would have also included [[Sabaria]].
+- **Major Events:** [[The Crownfall Rebellion]] at the turn of [[The Age of Seas]] saw [[The Nassarau Family]] deposed and replaced with the [[Merchant Council]]. [[The Oceanic Drought]] pushed out the territory of haast's colony, [[Nassarau]], this also caused a rebellion that led to the reinstatement of [[At Tadhimiya]].
+- **Myths and Legends:** Due to the history of haast many of its legends and myths are nautical in nature with ones such as [[The Giant of the Wasted Cape]] or [[The Legend of the grand Kraken]] as well as some that were verified like [[The Eye of Astrid]].
+- **Relationship with Other Countries:** As the forefront of international trade Haast has a vice grip on almost every country as going against Haast would all but eradicate international trade for that country.
 
-## **IV. Military and Defense**
+## **IV. Military and Defence**
 
-- **Military Structure:** How is the country's military organized? What are the different branches (army, navy, etc.)?
-- **Military Strength:** How strong is the country's military compared to its neighbors? What are its strengths and weaknesses?
-- **Important Military Victories or Defeats:** Has the country been involved in any major wars or battles? What were the outcomes?
+- **Military Structure:** While haast does have an official army it exists mostly only to police its cities and its colony, its navy however, funded mostly by the [[Merchant Council]] is the military pride of the nation, many joke that the permanence of pirates is only due to the [[Merchant Council]] not seeing any need to eradicate them since their own vessels usually travel with an escort.
+- **Military Strength:** While a land invasion from Haast forces is borderline impossible for the country to accomplish should the entire [[Merchant Council]] agree on a perceived threat they would have the power to cripple any country financially through debt collection, trade restrictions and of course naval bombardment.
+- **Important Military Victories or Defeats:** [[The Refounding of At Tadhymia]] presents the so far greatest stain on the history of Haast and showed its on land weakness to the world at large.
 
 ## **V. Economy and Resources**
 
