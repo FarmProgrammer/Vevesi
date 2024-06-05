@@ -32,21 +32,23 @@ Haast, a small island to the west of [[Toscana]] and east of [[Araluuen]]. Despi
 
 ## **IV. Military and Defence**
 
-- **Military Structure:** While haast does have an official army it exists mostly only to police its cities and its colony, its navy however, funded mostly by the [[Merchant Council]] is the military pride of the nation, many joke that the permanence of pirates is only due to the [[Merchant Council]] not seeing any need to eradicate them since their own vessels usually travel with an escort.
+- **Military Structure:** While Haast does have an official army it exists mostly only to police its cities and its colony, its navy however, funded mostly by the [[Merchant Council]] is the military pride of the nation, many joke that the permanence of pirates is only due to the [[Merchant Council]] not seeing any need to eradicate them since their own vessels usually travel with an escort, 100 years after [[The Crownfall Rebellion]] the [[Merchant Council]] decreed that each member of the council must maintain an active standing force each consisting of a fleet of at least 100 vessels meaning the country, if it were to bring its full might to bear could call upon at least 2000 military vessels with trained and manned crews..
 - **Military Strength:** While a land invasion from Haast forces is borderline impossible for the country to accomplish should the entire [[Merchant Council]] agree on a perceived threat they would have the power to cripple any country financially through debt collection, trade restrictions and of course naval bombardment.
 - **Important Military Victories or Defeats:** [[The Refounding of At Tadhymia]] presents the so far greatest stain on the history of Haast and showed its on land weakness to the world at large.
 
 ## **V. Economy and Resources**
 
-- **Resources:** What natural resources are found within the country? How are they used?
-- **Industries:** What are the main industries of the country? What goods and services do they produce?
-- **Trade:** Does the country engage in trade with other countries? What are its main exports and imports?
-- **Currency:** What form of currency does the country use?
+- **Resources:** Haast itsself is home to pine forests which gave the planks for haasts early naval exploration, chief among them being the [[Pijnheuvel]]. [[Tinte]] also produces pottery from clay imported from swamp cities like [[Zoutport]] and with paint made from local trade secrets creates the famous [[Tinte Blau]] pottery.
+- **Industries:** Haast has become known as an industrial company, factories in cities like [[Zoutport]], or chief among them, [[Egmond aan Zee]] belching out black smoke producing more than any other country by size. Despite the illegality of slavery in Haast [[Indentured Servitude]] is all too common, often those servants coming from seemingly thin air.
+- **Trade:** As mentioned before [[Haast]] controls all overseas trade and acts as a middleman for any trade between 2 countries, other than its official position haast also has many gangs that have beenm come to be colectively known as the [[Dreg Merchants]], often larger companies will work with these gangs to trade under the table. Many ex royals and forsaken traders in Haast will use what remains of their influence to undergo training and become one of the many [[Haastian Mercenaries]] in a process known as [[Herwinnen]].
+- **Currency:** Haast created a standardized world currency based off of the precious metals of silver, gold and copper, shaping them into coins with regional variations to identify where they were pressed.
 
 ## **VI. Cities and Locations**
 
-- **Capital City:** What is the capital city of the country? What is it known for?
-- **Other Important Locations:** Are there any other major cities, towns, or landmarks within the country? What makes them unique?
+- **Capital City:** The capital of Haast is [[Almkerk]] despite the largest being [[Zoutport]], [[Almkerk]] is known primarily for [[Castle of Saint Tulin]] that serves as the official meeting hall for the [[Merchant Council]] as well as the old residence of [[The Nassarau Family]], due to its namesake the castle is also a stopping point for those undertaking a pilgrimage for [[Geldrax]].
+- **Other Important Locations:** 
+	- [[Tinte]] is known for its pottery that is the centrepiece of many displays within royal and noble residences.
+	- [[Zoutport]] is known for its density of population and its [[13 Ports]] that see ships from all over the known world, it is also a recruiting ground for many of the [[Dreg Merchants]] due to its large slums. Beyond this it is known for one of the largest churches to [[Geldrax]] known as [[The Church of Barter]], the other largest being in [[Vosham]] with [[The Church of Trade]] and [[Hellouw]] with [[The Church of Haggle]].
 
 ## **VII. Additional Notes**
 

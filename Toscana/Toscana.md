@@ -54,7 +54,7 @@ While it has become somewhat diluted the demographics are as follows:
 	Horatia: Wood Elves
 	Jupiter: Aaracokra
 	Marcellus: High Elves
-	Maximus: Minotaurs
+	Maximus: Minotaurs and Leonin
 	Quintus: Centaurs
 	Tulius: Centaurs
 	Valerius: Kobolds

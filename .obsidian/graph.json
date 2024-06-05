@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:Toscana ",
@@ -62,6 +62,13 @@
         "a": 1,
         "rgb": 16384000
       }
+    },
+    {
+      "query": "path:Irinau  ",
+      "color": {
+        "a": 1,
+        "rgb": 6065110
+      }
     }
   ],
   "collapse-display": true,
@@ -74,6 +81,6 @@
   "repelStrength": 13.5416666666667,
   "linkStrength": 1,
   "linkDistance": 270,
-  "scale": 0.2059437748964763,
+  "scale": 0.11660891579457368,
   "close": true
 }
