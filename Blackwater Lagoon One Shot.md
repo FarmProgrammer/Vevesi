@@ -1,0 +1,1 @@
+The players are the hope of [[Blackwater Lagoon]], a city in [[The Arrow Stones]] under the eye of [[The Pirate Republic]]

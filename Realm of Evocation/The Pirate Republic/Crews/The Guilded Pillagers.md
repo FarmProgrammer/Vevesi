@@ -1,0 +1,2 @@
+Captain: [[Claxton Ephraine]]
+MO: With the [[Nuestra Señora de la Santísima Trinidad]] as his flagship claxton commands a fleet with many admirals, such as [[Claxtons Little Devils]], [[The Baron]], [[The Skrinch]], and many more.

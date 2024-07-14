@@ -1,0 +1,1 @@
+A sect of enforcers for the church of [[Garek]] that hunts heretics and judges the severity of their crimes, leading to anything from a slap on the wrist to an addition to the [[Tree Of Garek]].

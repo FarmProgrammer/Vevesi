@@ -1,1 +1,0 @@
-Giantkin Warriors and Explorers

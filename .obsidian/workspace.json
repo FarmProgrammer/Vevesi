@@ -13,70 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Irinau/Irinau.md",
+                "file": "Realm of Evocation/Toscana/Clans/Son of the Fallen.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "261ebc070899e83b",
+            "id": "beac4d1e34cf4997",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Players/Cervidus.md",
+                "file": "Gods.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a725fec88d8ccd8d",
+            "id": "def6581c2a209b4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Araluuen/Families/Lord Corliss Oberon.md",
+                "file": "The Lords of The Sea.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9c5197a4c6a228e4",
+            "id": "7a8943d728db7628",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Araluuen/Araluuen.md",
+                "file": "Realm of Evocation/The Pirate Republic/Storm Rising.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3b9154dd314857bf",
+            "id": "60e44c8ec2c2e69b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Volsca/Volsca.md",
+                "file": "Realm of Evocation/The Pirate Republic/Towns/Port Royal.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "fc7fac9556eed610",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -105,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hob",
+                "query": "line:(age of)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Realm of Evocation/The Pirate Republic/Towns/Port Royal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Realm of Evocation/The Pirate Republic/Towns/Port Royal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Realm of Evocation/The Pirate Republic/Towns/Port Royal.md"
+              }
             }
           },
           {
@@ -255,53 +251,53 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "fc7fac9556eed610",
+  "active": "60e44c8ec2c2e69b",
   "lastOpenFiles": [
-    "Toscana/Toscana.md",
-    "Volsca/Volsca.md",
-    "The End of Rending.md",
-    "Araluuen/Araluuen.md",
-    "At Tadhimiya/Species/Glitterfin.md",
-    "Irinau/Irinau.md",
-    "Players/Cervidus.md",
-    "Araluuen/Families/Lady Olenna Titania.md",
-    "Araluuen/Families/Lord Corliss Oberon.md",
-    "Templates/Character.md",
-    "Templates/Country.md",
-    "The Age of Discovery.md",
-    "Gods.md",
-    "Inlu/Inlu.md",
-    "At Tadhimiya/At Tadhimiya.md",
-    "Haast/Merchant Council.md",
-    "Aslava/Aslava.md",
-    "Haast/Haast.md",
-    "Haastian Mercenaries.md",
-    "Haast/Mercenary Companies",
-    "Toscana/Clans/Son of the Fallen.md",
-    "Toscana/Clans/Clan Maximus.md",
-    "10000 years ago.md",
-    "Toscana/Clans/Clan Jupiter.md",
-    "Church Of The Union/Garek/The Sect of Shrikes.md",
-    "Pasted image 20231209000325.png",
-    "Toscana/People/Imperius Royal Court/Lucius Stonecrafter.png",
-    "Maximus Aurellius.png",
-    "Parcelsus Mask.png",
-    "The Pirate Republic/The Pirate Republic.md",
-    "The Pirate Republic",
-    "Players/Tiffany Burns.md",
-    "Volsca",
+    "Realm of Evocation/Grace Arcs/The Duke/People/The Duke.md",
+    "Realm of Evocation/Grace Arcs/The Duke/The Duke of Naught.md",
+    "Marshall Teach.png",
+    "Adrian Karlsson.png",
+    "Atop A Rock.png",
+    "Aurum.png",
+    "Bedario Sabbag.md",
+    "Bedario Sabbag.png",
+    "Realm of Evocation/The Pirate Republic/Towns/Port Royal.md",
+    "Mama Magda.jpg",
+    "The 14 Flaws.md",
+    "Stompers.png",
+    "Rory.png",
+    "Marshall Teach.md",
+    "The Lords of The Sea.md",
+    "Realm of Evocation/The Pirate Republic/Storm Rising.md",
+    "Pasted image 20240707233143.png",
+    "Mariano.png",
+    "Aurum.md",
+    "Mama Magda.md",
+    "Mariano.md",
+    "Realm of Evocation/The Pirate Republic/Crews/Goldfishers.md",
+    "Adrian Karlsson.md",
+    "Realm of Evocation/The Pirate Republic/Crews/The Drifting Hunters.md",
+    "Realm of Evocation/The Pirate Republic/Crews/Merry Gentlemen.md",
+    "Realm of Evocation/The Pirate Republic/Crews/Stormwarders.md",
+    "Realm of Evocation/The Pirate Republic/Crews/Old Peglegs.md",
+    "Atop a Rock.md",
+    "Realm of Evocation/The Pirate Republic/Crews/Dead Mens Song.md",
+    "Realm of Evocation/The Pirate Republic/Crews/Golden Carvers.md",
+    "Princess Lua.md",
+    "Krok Backwater.md",
+    "Hendrik Nassarau_Ende.md",
+    "Realm of Evocation/At Tadhimiya/At Tadhimiya.md",
+    "Realm of Evocation/Irinau/Irinau.md",
+    "Emily Pembroke.md",
+    "Realm of Evocation/The Pirate Republic/Crews",
+    "Realm of Evocation/The Pirate Republic/Towns",
+    "Realm of Evocation",
+    "Realm of Evocation/Starsbourne",
+    "Realm of Evocation/Haast/Mercenary Companies",
+    "Realm of Evocation/The Pirate Republic",
+    "Realm of Evocation/Volsca",
     "Templates",
-    "The Pirate Republic",
-    "Grace Arcs/Republic of the Wicked",
-    "Pasted image 20240524205957.png",
-    "Grace Arcs/The Duke/Statblocks/Abductor Statblock.png",
-    "Pasted image 20231209000624.png",
-    "ToscanaRegions 1.png",
-    "ToscanaRegions.png",
-    "Church Of The Union/Garek",
-    "Players/Tiffany Burns.png",
-    "Toscana/People/Quintus Resistance",
-    "Toscana/People/Maximus Reach War Room",
-    "Toscana/People/Imperius Royal Court"
+    "Realm of Evocation/The Pirate Republic",
+    "Realm of Evocation/Grace Arcs/Republic of the Wicked"
   ]
 }

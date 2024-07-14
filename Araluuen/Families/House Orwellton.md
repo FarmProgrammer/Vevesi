@@ -1,1 +1,0 @@
-Vigilant Guardians and Truth-Seeking Inquisitors

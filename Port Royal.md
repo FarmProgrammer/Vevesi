@@ -1,0 +1,1 @@
+Port Royal is the meeting location and a safe haven within [[The Arrow Stones]] and the seat for meetings among the higher ups of [[The Pirate Republic]]

@@ -1,1 +1,0 @@
-Shield Bearers and Potectors

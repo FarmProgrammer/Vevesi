@@ -1,6 +1,0 @@
-[[Laviana]]
-[[Insula Corsaris]]
-[[Mareventus]]
-[[Mercatus]]
-[[Navigatus]]
-[[Nautica]]

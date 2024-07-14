@@ -27,7 +27,7 @@ She awoke groggily noticing her surroundings, one, that she was no longer in a d
 
 That man's name was Ivan and he saved her life. Ivan explained to Tiffany what he saw that night and decided there was no way he was gonna let her die, especially not a kid. He also mentioned that Tiffany had been out for almost a day and that she had some explaining to do. Tiffany hesitated at first, considering this could be the work of Mother Agnes, but she saw Ivan’s sympathetic eyes and couldn’t resist. She told Ivan everything, from every little detail, even the details that were too much information she told. 
 
-After she finished, Ivan sat there for a moment, pondering on what he could say and then after a while he spoke and said to her, “Do you want to see a magic trick?” and from that day forth Tiffany and Ivan became friends. Turns out, Ivan is a street performer, full name, Ivan “Strong” 
+After she finished, Ivan sat there for a moment, pondering on what he could say and then after a while he spoke and said to her, “Do you want to see a magic trick?” and from that day forth Tiffany and Ivan became friends. Turns out, Ivan is a street performer, full name, [[Ivan “Strong”]] 
 
 Tiffany doesn’t know much about Ivans past, other than he’s an old bag who has lived on his own for as long as he can remember. Ivan has a knack for lifting heavy objects and being able to swallow swords and is able to produce lights from his hands and fire from his mouth. Ivan seemed to know it all. Ivan passed on those tricks to the young Tiffany, since she was very eager to help him perform.
 

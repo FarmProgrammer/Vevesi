@@ -1,2 +1,0 @@
-Hoblefoot is the name of the new disease found among Toscana and that is beginning to spread around the world. That only the prince can cure.
-It manifests at first as a limp and pain in one if not both legs, then turning into a strange rot as the skin becomes loose and the flesh begins to detach from the bone and falling apart.
