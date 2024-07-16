@@ -2,3 +2,10 @@ Port royal is the seat of power for [[The Pirate Republic]] and the site upon wh
 Port Royal was founded on one of the larger islands within [[The Arrow Stones]] and has one of the largest ports, in size it rivals many of the largest ports in the world though it does not have much of the same organization. With the famous [[Saltblood Lighthouse]] peeking high above the ramshackle buildings of the city like the main mast of a ship, flying the jolly roger, its large stones taken from the ancient ruins that are scattered around the island. its like cutting through the mysterious outer ring of mist that surrounds the island, guiding any ships through the mist past the wrecks of many ships intent on uprooting the pirates at their source.
 The island itself has 10 harbours, each names after that captain of a crew that founded the republic. The city itself is a tangled mess of buildings and markets, the smell of fish running strong through the streets and the sound of barter and chatter fill the alleys that would seem bleak to anyone who is not familiar with the jolly radiance of this island. 
 Any street you walk down you are likely to find an inn serving strong rum and meals from around the world with hearty chanties welling from the stage and the patrons.
+
+## Main Buildings
+### The Saltblood Lighthouse
+### The Merry Mermaid
+### Big Betty's Powder Keg
+### The Goldfishery
+### The Forgery
