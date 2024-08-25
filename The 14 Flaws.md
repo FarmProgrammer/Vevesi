@@ -6,5 +6,5 @@
 6. [[The Ambition of Mortals]]
 7. [[The Lords of The Sea]]
 8. [[The Lords of the Beyond]]
-9. [[The Flaw of New Divinity]]
+  9. [[The Flaw of New Divinity]]
 10. [[The Shackles of Order]]

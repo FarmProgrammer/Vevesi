@@ -1,0 +1,1 @@
+Aslavans believe hair to be sacred, as they see hair as the roots of a human and their final connection to the earth, and aslavan burial is traditionally done without a casket or covering for the deceased in light of this.

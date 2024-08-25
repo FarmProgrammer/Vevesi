@@ -1,0 +1,1 @@
+Gold is a major trade good, primarily mined in some villages in [[The Wastes]], [[Araluuen]] and [[Inlu]]. it is imported in many places but most prominently in workshops in the [[Aelius Steppes]] through the [[Flaviana's Stretch]], or in [[Irinau]], the magic workshops in [[Volsca]] and [[Mosiheimr]].

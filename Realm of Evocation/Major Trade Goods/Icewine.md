@@ -1,0 +1,1 @@
+Icewine is a type of alcohol produced only within the [[Sierra Tiberius]] within [[Clan Quintus]], it is mainly exported to northern regions of the world where it tends to be warmer such as [[Nassarau]], [[Mosiheimr]], [[Narashihoro]] and [[Apiara]].

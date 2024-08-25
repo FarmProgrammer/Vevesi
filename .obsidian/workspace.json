@@ -4,71 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "b440ea4dc05f14d2",
+        "id": "caf04e798b611334",
         "type": "tabs",
         "children": [
           {
-            "id": "255fef56ade93380",
+            "id": "54cb3d76db6683d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Realm of Evocation/Toscana/Clans/Son of the Fallen.md",
+                "file": "Realm of Evocation/Church Of The Union/Garek/The Sect of Shrikes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "beac4d1e34cf4997",
+            "id": "5467431b4659076d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Gods.md",
-                "mode": "source",
-                "source": false
+                "file": "Mama Magda.jpg"
               }
             }
           },
           {
-            "id": "def6581c2a209b4d",
+            "id": "d6a9d8ee69b87fcb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Lords of The Sea.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a8943d728db7628",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Realm of Evocation/The Pirate Republic/Storm Rising.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60e44c8ec2c2e69b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Saltblood Lighthouse.md",
+                "file": "Claxton Ephraine.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,10 +71,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(age of)",
+                "query": "age",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -134,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Saltblood Lighthouse.md",
+                "file": "Claxton Ephraine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Saltblood Lighthouse.md",
+                "file": "Claxton Ephraine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Saltblood Lighthouse.md"
+                "file": "Claxton Ephraine.md"
               }
             }
           },
@@ -247,57 +221,55 @@
       "ava:Ava - Show Links": false,
       "ava:Ava - Open Rewrite Playground": false,
       "copilot:Copilot Chat": false,
-      "awesome-brain-manager:Awesome Brain Manager": false,
-      "calendarium:Open Calendarium": false
+      "awesome-brain-manager:Awesome Brain Manager": false
     }
   },
-  "active": "60e44c8ec2c2e69b",
+  "active": "d6a9d8ee69b87fcb",
   "lastOpenFiles": [
-    "Realm of Evocation/The Pirate Republic/Towns/Port Royal.md",
-    "Saltblood Lighthouse.md",
-    "Zheng Yi Sao.md",
-    "Zheng Yi Sao.png",
+    "Storm Rising/session 3.md",
+    "Realm of Evocation/The Pirate Republic/Crews/Stormwarders.md",
+    "Mama Magda.jpg",
+    "Aurum.md",
     "Realm of Evocation/The Pirate Republic/Crews/Steel Flyers.md",
-    "Realm of Evocation/The Pirate Republic/Crews/Goldfishers.md",
-    "Realm of Evocation/The Pirate Republic/Storm Rising.md",
-    "Realm of Evocation/The Pirate Republic/Crews/Merry Gentlemen.md",
-    "Realm of Evocation/The Pirate Republic/Crews/The Krakens.md",
+    "Realm of Evocation/Church Of The Union/Garek/The Sect of Shrikes.md",
+    "Untitled.md",
+    "Realm of Evocation/Aslava/Aslava.md",
+    "10000 years ago.md",
+    "Realm of Evocation/Aslava/Royal Family/Vols Royal Family.md",
+    "Trading Companies Of Haast.md",
+    "Queen Ambrette Camelot.md",
+    "Realm of Evocation/Araluuen/Araluuen.md",
+    "Realm of Evocation/Irinau/Irinau.md",
+    "Irinau Castes.md",
+    "Atop a Rock.md",
+    "Realm of Evocation/The Pirate Republic/Crews/Dead Mens Song.md",
     "Realm of Evocation/The Pirate Republic/Crews/The Guilded Pillagers.md",
     "Realm of Evocation/The Pirate Republic/Crews/The Drifting Hunters.md",
-    "Realm of Evocation/The Pirate Republic/Crews/Stormwarders.md",
-    "Realm of Evocation/The Pirate Republic/Crews/Old Peglegs.md",
+    "Saltmother Cathaysa.md",
+    "Pelagie Wayward.md",
     "Realm of Evocation/The Pirate Republic/Crews/Golden Carvers.md",
-    "Realm of Evocation/The Pirate Republic/Crews/Dead Mens Song.md",
-    "Realm of Evocation/Grace Arcs/The Duke/People/The Duke.md",
-    "Realm of Evocation/Grace Arcs/The Duke/The Duke of Naught.md",
+    "Realm of Evocation/The Pirate Republic/Crews/Goldfishers.md",
+    "Realm of Evocation/The Pirate Republic/Crews/Merry Gentlemen.md",
+    "Realm of Evocation/The Pirate Republic/Crews/Old Peglegs.md",
+    "Realm of Evocation/The Pirate Republic/Crews/The Krakens.md",
+    "Storm Rising",
+    "Realm of Evocation/Narashihoro",
+    "Realm of Evocation/Major Trade Goods",
+    "Zheng Yi Sao.png",
     "Marshall Teach.png",
     "Adrian Karlsson.png",
     "Atop A Rock.png",
     "Aurum.png",
-    "Bedario Sabbag.md",
     "Bedario Sabbag.png",
-    "Mama Magda.jpg",
-    "The 14 Flaws.md",
     "Stompers.png",
     "Rory.png",
-    "Marshall Teach.md",
-    "The Lords of The Sea.md",
     "Pasted image 20240707233143.png",
-    "Aurum.md",
-    "Mama Magda.md",
-    "Mariano.md",
-    "Adrian Karlsson.md",
-    "Atop a Rock.md",
-    "Princess Lua.md",
     "Realm of Evocation/The Pirate Republic/Crews",
     "Realm of Evocation/The Pirate Republic/Towns",
     "Realm of Evocation",
     "Realm of Evocation/Starsbourne",
     "Realm of Evocation/Haast/Mercenary Companies",
     "Realm of Evocation/The Pirate Republic",
-    "Realm of Evocation/Volsca",
-    "Templates",
-    "Realm of Evocation/The Pirate Republic",
-    "Realm of Evocation/Grace Arcs/Republic of the Wicked"
+    "Realm of Evocation/Volsca"
   ]
 }

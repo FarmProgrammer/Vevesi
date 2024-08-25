@@ -1,0 +1,2 @@
+Tolosa is a small village in the quintus mountain range. Home to about 600 people built into the side of the tallest peak of the range, it has a small salt mine and a small production of olive oil as well.
+But its main export. like the other villages in this region is [[Icewine]]

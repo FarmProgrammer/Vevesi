@@ -64,5 +64,8 @@
 3. [[Sanguine]], Lord of debauchery
 	 * **Domain**: Debauchery, love, freedom, enjoyment, self fulfilment.
 	 * **Description**: [[Sanguine]] lived their mortal life as a changeling from in service of [[Felicity]] before her fall 10000 years ago. He ascended is the fight against them as he and the rest of those who remained loyal to [[Imperium]] were slaughtered by the [[Revelers]], those who fell along with [[Felicity]].
+4. [[Harridan]], The Sunken
+	- **Domain**: Sea, the deep, the unknown
+	- **Description**: Born as a lord of a region that would come to be known as [[The Arrow Stones]] Harridan understood the gravity of the war over 10000 years ago. His people had always known the seat, connected to it, they did not live in it but it was their destiny to do so, a destiny harridan would fulfil, now, thousands of feet bellow the surface, in the valleys of the peaks that make up the arrow stones live the people he saved, among the few being capable of survival at such depth.
 
 ## The Lost Gods

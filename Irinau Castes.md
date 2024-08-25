@@ -1,0 +1,7 @@
+Irinau is divided primarily into 3 castes, each stratified in itsself but with largely the same possibilities, the lowest cast being the Symic hybrids born with undesirable mutations.
+These individuals are expected to perform menial labour tasks or make up the brunt of infantry within the army of [[Irinau]].
+	"It is the nature of all things that desirable traits are to be preserved and cherished while the undesirable or neutral are to be left in order to build a stronger species."
+		- **[[Neli Dherdar]]**, in *[[Observations on Nature]] Vol. 3*
+In the middle of the pyramid lie symic hybrids with desirable traits, namely those capable of gliding or flight, these make up messengers, transporters, criers and high value soldiers specifically as part of the aerial section. Finally the highest cast are the Vedalken who make up thinkers, mages and scientists.
+	"Recent research would suggest that a ship upon water can be made of materials that do not float so long as the section of the ship that is submerged is overall less dense than the water that surrounds it, this principle can also be fopund in the airships of [[Narashihoro]] as we suspect that the substance within the balloons is less dense than air, allowing it to generate lift without the remnant arcane energies present in dirftwood."
+		- **[[Alsno Zleshis]]**, *report delivered to the [[Merchant Council]] in Haast on the final year of [[The Age of Seas]]*.

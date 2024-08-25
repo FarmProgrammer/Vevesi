@@ -1,0 +1,1 @@
+Geldrax is the Major deity of [[Gold]], trade, greed and merchants, he is primarily worshipped in [[Haast]] and has a Lawful alignment. He has a great dislike for thieves and any contract made in the realm of business is sacred and breaking one is a sin in the eyes of him and his church.

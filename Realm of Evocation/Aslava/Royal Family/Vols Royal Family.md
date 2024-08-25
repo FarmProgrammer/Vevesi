@@ -1,0 +1,1 @@
+The Vols royal family has been in charge of Aslava since its founding as a country at the hand of [[Eiric Vols]], as such this family has been in charge of [[Aslava]] for over 

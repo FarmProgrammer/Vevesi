@@ -1,5 +1,4 @@
 [[Forgia Aeliana]]
-[[Gladiobona]]
 [[Moltenis]]
 [[Ineus]]
 [[Ferroar]]
