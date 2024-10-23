@@ -1,2 +1,2 @@
 Age: 20
-Race: Aaracockra
+Race: Strix

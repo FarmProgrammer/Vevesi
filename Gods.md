@@ -55,6 +55,7 @@
     - _Domain:_ War, Honour
     - _Description:_ Vorus is the relentless deity of war and honor, whose fury knows no bounds on the battlefield. Warriors, knights, and those who uphold principles of honor and valor invoke Vorus's name in battle, seeking strength and courage in the face of adversity. Yet, Vorus also demands respect for the rules of engagement and the code of honor that guides warriors in conflict.
 ## The New Gods
+1. [[Aebemi]], The First Sage
 1. [[Ukldir]], The Dominator
 	 * **Domain**: Domination, Vampirism, Slavery
 	 * **Description**: [[Ukldir]] started his mortal life as a human from [[Araluuen]] before [[The Age of Discovery]] in [[Brujahide]]. He ascended by cementing himself as the most powerful vampire of his time, at the time having controlled the entire country. Now he holds domain over the [[Midrealm]] of [[Brujah]].

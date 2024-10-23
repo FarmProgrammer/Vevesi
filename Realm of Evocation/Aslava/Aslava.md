@@ -3,7 +3,7 @@ Aslava is a semi-constitutional monarchy headed by the [[Vols Royal Family]], lo
 ## **I. Basic Information**
 
 - **Name:** Aslava.
-- **Location:** Southeast, below [[Toscana]] over the [[Great wall mountains]], its southern coastline borders [[The Freezing Currents]], it has [[The Inner Sea]] to its west and [[Astrid's Bow]] to its east.
+- **Location:** Southeast, below [[Toscana]] over the [[Great Wall Mountains]], its southern coastline borders [[The Freezing Currents]], it has [[The Inner Sea]] to its west and [[Astrid's Bow]] to its east.
 - **Size:** A large country, Aslava stretches for over 4300 miles from its westernmost shore to its easternmost peninsula.
 - **Climate:** While the northern parts of Aslava may reach comfortable temperatures even in winter the southern areas of Aslava however, including its capital city of [[Alsted]], reach temperatures as low as -70F.
 

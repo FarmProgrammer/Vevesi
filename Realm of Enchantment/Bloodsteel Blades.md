@@ -1,0 +1,2 @@
+Bloodsteel blades are blades forged for warriors who have proven their strength in battle, they are weapons made from the iron extracted from the blood of the fallen, the forging of a new bloodsteel blade signals the start of a new heraldry and any major Kingdom may offer the new lineage land.
+To loose a bloodsteel blade is the greatest shame a heraldry can endure as it is like losing the strength they have built and the legacy of their bloodline, the loss of a blade, even if it is recovered signals the end of that heraldry as they will be stripped of all titles and land

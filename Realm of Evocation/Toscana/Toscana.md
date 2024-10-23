@@ -5,7 +5,7 @@ Within Toscana recorded history goes back roughly 2700 years to when the  clans 
 ### - How much is known of time before recorded history?
 Little is known before the 2700 years ago as the clans were too small and most knowledge came from stories or word of mouth from generation to generation.
 ### - To what degree does the history of different cultures/races vary?
-While the history as recorded by the Aaracokra is the most prevalent and taught each race owes its ancestry primarily to a different clan.
+While the history as recorded by the Strix is the most prevalent and taught each race owes its ancestry primarily to a different clan.
 ### - Are there relics of earlier eras that predate this?
 Yes, every now and then a ruin or mausoleum is discovered that is estimated to be over 10000 years old.
 ### - What form do these relics take? (ruined cities, massive standing stones, ancient but common near-indestructible charms passed down through families, etc).
@@ -48,11 +48,11 @@ Toscana mostly uses animals for transport, anything from [[Stompers]] to [[Pegas
 The very large area that comprises Toscana and its different landscapes and resources.
 ### Do different cultures/lineages tend to have certain physical traits and if so, what are they?
 While it has become somewhat diluted the demographics are as follows:
-	Aelius: Bugbear
+	Aelius: Orc
 	Caelia: Kenku
 	Flaviana: Sea Elves
 	Horatia: Wood Elves
-	Jupiter: Aaracokra
+	Jupiter: Strix
 	Marcellus: High Elves
 	Maximus: Minotaurs and Leonin
 	Quintus: Centaurs

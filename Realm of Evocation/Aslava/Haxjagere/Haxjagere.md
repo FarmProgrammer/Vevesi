@@ -6,7 +6,7 @@ We show our unwavering will
 upon the land i stand 
 and the roots beneath it
 
-my blood shall hence be spilt
+My blood shall hence be spilt
 to protect it from the vile curse of magic
 that flesh tainted by it 
 shall not too taint the ground
@@ -17,7 +17,7 @@ That mouths uttering it
 shall no longer speak
 
 This sacred land is proof
-that our people are strong
+That our people are strong
 That our strength remains pure
 
 
