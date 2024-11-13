@@ -1,1 +1,1 @@
-Caithe is [[Sylberos Esothrel]]'s younger sister. She is currently 12 and lives with her parents int he outskirts of [[Ligna]]
+Caithe is [[Syldanthil Esothrel]]'s younger sister. She is currently 12 and lives with her parents int he outskirts of [[Ligna]]

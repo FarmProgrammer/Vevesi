@@ -1,0 +1,10 @@
+
+- **Race:** Strix
+- **Age and Appearance:** 52, regal and imposing. When he lost the use of his wings in an old campaign he had metal implanted in place of feathers and now uses them as shields.
+- **Personality:** Stoic, proud, unyielding.
+- **Motivation:** Gérard wishes to see Jupiter become the greatest of the clans and has been awaiting a war like the current one for his entire life.
+- **Skills and Abilities:** Delacroix is a passable tactician but his fame comes mostly from his prowess in battle and his lead from the front strategy.
+- **Strengths and Weaknesses:** Gerard is a difficult opponent to face in a different way than most strix. the metal on his body as well as his heavy armour make him like a mountain. Almost impossible to move unless he wills it while his engraved great sword swings in great arcs. While this has brought him victory it has been pointed out in the past that his lack of manoeuvrability and tendency to get stuck in melee leave him exposed to be isolated and killed thus breaking the morale of his army.
+- **Backstory:** Born in [[Novus Gladius]] Gerard idolized the many tales of Toscanas great past and their heroes. When he came of age he was fast to join the military and even faster to rise through the ranks. In his time there he would take any opportunity he could to be sent to active warzones while always volunteering to carry the [[Arch of Jupiter]] into each battle. During a joint campaign with [[Haast]] in [[The Arrow Stones]] Delacroix was struck with grapeshot barely escaping with his life. His metal implants were the first work of [[Paracelsus]], the current master Alchemist of the Imperial court. 
+- **Relationships:** Gérard has made it a point to surround himself with those whom he personally has seen fight and win. People who, in his eyes, have given tangible results. Every one of his upper officers he considers a friend and companion.
+- **Role in the Story:** Supporting character.

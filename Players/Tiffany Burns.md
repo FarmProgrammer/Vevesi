@@ -5,10 +5,10 @@
 #### 2 - Blow up her orphanage.
 
 #### 3 - Blow up the church.
-### Parents: [[Parcelsus]]
+### Parents: [[Paracelsus]]
 
 ### Joined
-As a prisoner
+As a prisoner 3rd gun levy company
 #### Imprisonment
 Arson, terrorism
 
