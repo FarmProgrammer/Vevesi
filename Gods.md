@@ -1,4 +1,4 @@
-1. **[[Solarius]], the Radiant Sun:**
+1. **[[Solarius the Radiant Sun]]:**
     
     - _Domain:_ Light, Sun, Day
     - _Description:_ Solarius is the benevolent god of the sun, known for bringing warmth, light, and life to the world. Followers of Solarius often include farmers, travelers, and those who seek guidance and enlightenment.
@@ -14,7 +14,7 @@
     
     - _Domain:_ Stars, Navigation, Guidance
     - _Description:_ Astrid is the goddess of the night sky and celestial navigation. Sailors, explorers, and those who navigate both physical and metaphorical journeys pay homage to Astrid for guidance. Astrid is often associated with wisdom and the pursuit of knowledge.
-5. **[[Vorin]], the Forgefather:**
+5. **[[Vorin The Forgefather]]:**
     
     - _Domain:_ Craftsmanship, Innovation, Smithing
     - _Description:_ Vorin is the deity of craftsmanship and innovation, overseeing the creation of tools, weapons, and magical artifacts. Artisans, blacksmiths, and inventors invoke Vorin's name for inspiration and skill. Vorin encourages the pursuit of excellence in all forms of creation.
