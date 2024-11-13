@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:Toscana ",
@@ -78,16 +78,16 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.01875,
-  "lineSizeMultiplier": 0.4828125,
+  "lineSizeMultiplier": 1.84817708333333,
   "collapse-forces": false,
-  "centerStrength": 0.552083333333333,
+  "centerStrength": 0.747395833333333,
   "repelStrength": 13.5416666666667,
   "linkStrength": 1,
   "linkDistance": 270,
-  "scale": 0.27268599173600827,
+  "scale": 0.4302942024082504,
   "close": true
 }
