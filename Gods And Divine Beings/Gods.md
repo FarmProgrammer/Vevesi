@@ -42,7 +42,8 @@
     
     - _Domain:_ Art, Pleasure, Joy in your own craft
     - _Description:_ Felicity is the embodiment of revelry and celebration, finding joy in all forms of artistic expression. Artists, performers, and those who revel in their own creative pursuits honor Felicity, seeking inspiration and the pure delight of creation. She encourages individuals to embrace the beauty of life and to find pleasure in their unique talents and passions.
-12. **[[Veritas]], the Shifting Oracle:**
+## The Fallen Gods
+1. **[[Veritas]], the Shifting Oracle:**
     
     - _Domain:_ Prophecies, The Future, Magic
     - _Description:_ Veritas is the enigmatic deity of prophecy and foresight, whose wisdom transcends time itself. Mystics, seers, and those who seek knowledge of the future pay homage to Veritas, hoping to glimpse the shifting threads of destiny. Yet, Veritas's truths are as elusive as they are profound, guiding mortals with cryptic visions and riddles that require careful interpretation.
@@ -55,7 +56,6 @@
     - _Domain:_ War, Honour
     - _Description:_ Vorus is the relentless deity of war and honor, whose fury knows no bounds on the battlefield. Warriors, knights, and those who uphold principles of honor and valor invoke Vorus's name in battle, seeking strength and courage in the face of adversity. Yet, Vorus also demands respect for the rules of engagement and the code of honor that guides warriors in conflict.
 ## The New Gods
-1. [[Aebemi]], The First Sage
 1. [[Ukldir]], The Dominator
 	 * **Domain**: Domination, Vampirism, Slavery
 	 * **Description**: [[Ukldir]] started his mortal life as a human from [[Araluuen]] before [[The Age of Discovery]] in [[Brujahide]]. He ascended by cementing himself as the most powerful vampire of his time, at the time having controlled the entire country. Now he holds domain over the [[Midrealm]] of [[Brujah]].
@@ -64,9 +64,23 @@
 	 * **Description**: [[The Lady of Night]] started their mortal life as a kenku from [[Toscana]] before [[The Age of Discovery]] in [[Manto]]. She ascended by simultaneously becoming the most famed thief in [[Aslava]] and [[Toscana]] while also managing to after make herself be completely forgotten. Now she holds domain over the [[Midrealm]] of [[Evernight]].
 3. [[Sanguine]], Lord of debauchery
 	 * **Domain**: Debauchery, love, freedom, enjoyment, self fulfilment.
-	 * **Description**: [[Sanguine]] lived their mortal life as a changeling from in service of [[Felicity]] before her fall 10000 years ago. He ascended is the fight against them as he and the rest of those who remained loyal to [[Imperium]] were slaughtered by the [[Revelers]], those who fell along with [[Felicity]].
+	 * **Description**: [[Sanguine]] lived their mortal life as a changeling in service to [[Felicity]] before her fall 10000 years ago. He ascended is the fight against them as he and the rest of those who remained loyal to [[Imperium]] were slaughtered by the [[Revelers]], those who fell along with [[Felicity]].
 4. [[Harridan]], The Sunken
 	- **Domain**: Sea, the deep, the unknown
 	- **Description**: Born as a lord of a region that would come to be known as [[The Arrow Stones]] Harridan understood the gravity of the war over 10000 years ago. His people had always known the seat, connected to it, they did not live in it but it was their destiny to do so, a destiny harridan would fulfil, now, thousands of feet bellow the surface, in the valleys of the peaks that make up the arrow stones live the people he saved, among the few being capable of survival at such depth.
-
+5. [[Jeau]], the Joy of Creation
+	- **Domain**: Growth, Joy, Learning, Technological Advancement
+	- **Description**: Jeau was a kobold engineer that worked on giving warforged a consciousness wanting them to be more than machines made for war before the war. Originally Jeau was a worshipper of Vorin but did not like the severe demeanour of other worshippers of the forgefather, leading to him attempting to create a new sect in Vorin's name to better represent how he viewed advancement should be approached, with joy and true love for whatever the result might come to be.
+6. [[The Son of The Fallen]]
+	- **Domain**: Martial honour and loyalty to a cause.
+	- **Description**: The unnamed soldier was a peerless warrior, a champion of [[Vorus]] before his fall who believed truly in his doctrines of honour. When Vorus fell he was marked as a traitor and attacked by his fellow disciples but won a hard fought victory alongside [[Imperius]] and [[Saint Tulin]]. He then split from this group to defend the part of the world now known as [[Toscana]], becoming the hero of [[Hadrian's Reach]] deifying himself with his devotion and martial might. Now he lies interred beneath its walls in a deep slumber, yet he still answers prayers to soldiers and those who seek might not for themselves but for the sake of others.
+7. [[Schievy]], Father to the lost
+	- **Domain**: Poverty, uprising, compassion.
+	- **Description**: In life Schievy was a pauper in [[Tinte]] before [[The Crownfall Rebellion]], he was known for taking care of homeless children and crippled people, stealing food for many who had no way of getting it themselves. He became very popular with the lower classes as a form of robin hood like figure. As his fame grew he became involved in the rebellion that overthrew the Haastian monarchy, but once he learned of the system that would replace it he was killed out of fear that his lack of support would cause the lower classes to revolt against the [[Merchant Council]], his death was blamed on resistance from the royal family. He became deified after his death when he became a beggar king of sorts, with many homeless or poor people making shrines to the man who stood up for them.
+8. [[Gaia]], the draconic rebuilder
+	- **Domain**: New beginnings and hope.
+	- **Description**: 1000 years after the war that almost ended the world the scattered tribes of people were little compared to what had once been, Gaia, a dragoness from the mountain that would eventually host the city of starsbourne was not old enough to remember the war and those who were had been driven mad by it and refused to speak of it. But she knew the stories of sprawling metropolises and cooperation. Gaia left the mountain and assembled bands of humans to restart civilization, found [[The Southport]] and [[Starsbourne]], eventually dying of old age 1000 years after its founding as a head of its ruling council, being later deified by many cults that proclaimed her as She who rekindled the flame of civilization in the mortal races.
+9. [[Joraina]], Goddess of healers and Cleanliness
+	- **Domain**: Sanitary conditions, surgery, healers, cleanliness.
+	- **Description**: Joraina was a tribeswoman in [[Apiara]] as its nation was being founded in a period of many small scale conflicts, once she became the head of her tribe she took a neutral stance opting to find battlefields and heal wounded warriors, vowing to never kill. Ultimately she was Martyred after her tribe was captured and she was given a blade to end the life of an innocent child or watch her own tribe members die. Her entire tribe was killed with her soon after.
 ## The Lost Gods

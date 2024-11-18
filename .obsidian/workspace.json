@@ -53,10 +53,14 @@
             "id": "e0473673c4c9e06d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Gods And Divine Beings/Gods.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gods"
             }
           },
           {
@@ -74,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -105,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:son",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -271,18 +275,20 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "awesome-brain-manager:Awesome Brain Manager": false,
       "ava:Ava": false,
       "ava:Ava - Show Links": false,
       "ava:Ava - Open Rewrite Playground": false,
       "copilot:Copilot Chat": false,
+      "awesome-brain-manager:Awesome Brain Manager": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "2c29b3e0ae947636",
+  "active": "e0473673c4c9e06d",
   "lastOpenFiles": [
-    "Gods.md",
-    "Vorin The Forgefather.md",
+    "Realm of Evocation/Toscana/Regions/Maximus Reach.md",
+    "Gods And Divine Beings/Gods.md",
+    "Gods And Divine Beings/Vorin The Forgefather.md",
+    "Gods And Divine Beings",
     "ToscanaRegions.png",
     "Realm of Evocation/Irinau/Irinau.md",
     "Realm of Evocation/Haast/Haast.md",
@@ -322,7 +328,6 @@
     "The Baron.png",
     "Realm of Evocation/Araluuen/People of Note",
     "Realm of Enchantment",
-    "Realm of Necromancy",
     "Zheng Yi Sao.png",
     "Realm of Evocation/The Pirate Republic/Marshall Teach.png",
     "Realm of Evocation/The Pirate Republic/Adrian Karlsson.png"
