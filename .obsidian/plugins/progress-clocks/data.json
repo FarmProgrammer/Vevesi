@@ -1,0 +1,23 @@
+{
+  "state": {
+    "sections": [
+      {
+        "name": "Section 1",
+        "children": [
+          {
+            "type": "clock",
+            "name": "Quintus Knowledge",
+            "segments": 4,
+            "filled": 0
+          },
+          {
+            "type": "clock",
+            "name": "Duke Knowledge",
+            "segments": 4,
+            "filled": 0
+          }
+        ]
+      }
+    ]
+  }
+}

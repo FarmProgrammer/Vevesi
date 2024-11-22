@@ -38,20 +38,20 @@
     
 	- _Domain:_ Dreams, Protection, Sleep
 	- _Description:_ Garek is the deity who watches over the realm of dreams and offers protection during slumber. Those seeking guidance in their dreams or safeguarding against nightmares invoke Garek's name. Garek is also associated with the restorative power of sleep and rest.
-11. **[[Felicity]], the Reveler:**
+## The Fallen Gods
+1. **[[Felicity]], the Reveler:**
     
     - _Domain:_ Art, Pleasure, Joy in your own craft
     - _Description:_ Felicity is the embodiment of revelry and celebration, finding joy in all forms of artistic expression. Artists, performers, and those who revel in their own creative pursuits honor Felicity, seeking inspiration and the pure delight of creation. She encourages individuals to embrace the beauty of life and to find pleasure in their unique talents and passions.
-## The Fallen Gods
-1. **[[Veritas]], the Shifting Oracle:**
+2. **[[Veritas]], the Shifting Oracle:**
     
     - _Domain:_ Prophecies, The Future, Magic
     - _Description:_ Veritas is the enigmatic deity of prophecy and foresight, whose wisdom transcends time itself. Mystics, seers, and those who seek knowledge of the future pay homage to Veritas, hoping to glimpse the shifting threads of destiny. Yet, Veritas's truths are as elusive as they are profound, guiding mortals with cryptic visions and riddles that require careful interpretation.
-13. **[[Nihilus]], the Reaper:**
+3. **[[Nihilus]], the Reaper:**
     
     - _Domain:_ Inevitability of Death, Renewal from End
     - _Description:_ Nihilus is the somber god who presides over the inevitability of death and the cycle of renewal that follows. He reminds mortals of the impermanence of existence and the eternal cycle of life and death. Cultures across the world offer prayers to Nihilus for a peaceful passage into the afterlife and for the promise of renewal that follows the end.
-14. **[[Vorus]], the Unbound Fury:**
+4. **[[Vorus]], the Unbound Fury:**
     
     - _Domain:_ War, Honour
     - _Description:_ Vorus is the relentless deity of war and honor, whose fury knows no bounds on the battlefield. Warriors, knights, and those who uphold principles of honor and valor invoke Vorus's name in battle, seeking strength and courage in the face of adversity. Yet, Vorus also demands respect for the rules of engagement and the code of honor that guides warriors in conflict.
@@ -83,4 +83,10 @@
 9. [[Joraina]], Goddess of healers and Cleanliness
 	- **Domain**: Sanitary conditions, surgery, healers, cleanliness.
 	- **Description**: Joraina was a tribeswoman in [[Apiara]] as its nation was being founded in a period of many small scale conflicts, once she became the head of her tribe she took a neutral stance opting to find battlefields and heal wounded warriors, vowing to never kill. Ultimately she was Martyred after her tribe was captured and she was given a blade to end the life of an innocent child or watch her own tribe members die. Her entire tribe was killed with her soon after.
+10. [[Azmodeus]], God of Power
+	- **Domain**: Power for the sake of power. Strength. Influence.
+	- **Description**: Nothing is known of Azmodeus before his ascension, or rather, there are too many stories, there are at least 16 provable instances of mortal ascending to become the being known as Azmodeus and they all conflict. Azmodeus's [[Demirealm]] is one of facades where the only real building is an arena in which sits a throne and the red robed figure with a golden crown under the crimson sun surrounded by the corpses who did not have the strength to claim it. 
+11. [[Judicar]], 2 faced god of justice
+	- **Domain**: Justice and Revenge.
+	- **Description**: Judicar was a revolutionary in [[At Tadhimiya]] in the time it was a colony of [[Haast]], known as a honourable warrior for peace to the locals and as a brutal slaughterer to Haastians. Judicar so embraced that duality, dispensing both justice while blessing those on a path to revenge.
 ## The Lost Gods
