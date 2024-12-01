@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gods And Divine Beings/Artifacts/Crown & Cudgel.md",
+                "file": "Grace Arcs/The Duke/Locations/Towns/Dertona.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Crown & Cudgel"
+              "title": "Dertona"
             }
           },
           {
@@ -79,12 +79,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grace Arcs/The Duke/Trackers.md",
+                "file": "Grace Arcs/Marcus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trackers"
+              "title": "Marcus"
             }
           },
           {
@@ -93,16 +93,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Players/Leo Beaumont.md",
+                "file": "Grace Arcs/The Duke/Side Quests/Childhood Friend.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leo Beaumont"
+              "title": "Childhood Friend"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -317,39 +317,39 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "d6dad727360cf4c9",
+  "active": "bfb7a42bb484cf92",
   "lastOpenFiles": [
-    "Gods And Divine Beings/Gods.md",
+    "Grace Arcs/Imperium Defense",
+    "Grace Arcs/The Duke/Side Quests/A Towerful of Tears.md",
+    "Jeaun Moreau.md",
+    "Players/Willow Calyx.md",
+    "Players/Leo Beaumont.md",
+    "Grace Arcs/Marcus.md",
+    "Grace Arcs/The Duke/People/Cispia Galera.md",
+    "Grace Arcs/The Duke/Locations/Towns/Tolosa.md",
+    "Grace Arcs/The Duke/Side Quests/Childhood Friend.md",
+    "Grace Arcs/The Duke/Locations/Towns/Dertona.md",
+    "2024-11-22.md",
+    "Grace Arcs/The Duke/Side Quests/Graveyard Maintenance.md",
+    "Grace Arcs/The Duke/Locations/Towns/Ligna.md",
+    "Grace Arcs/The Duke/Locations/Towns/Fonte Fria.md",
+    "Grace Arcs/The Duke/Trackers.md",
+    "Grace Arcs/The Duke/Side Quests/Funeral Pyres.md",
+    "Grace Arcs/The Duke/Side Quests/Vale do Lobo.md",
     "Gods And Divine Beings/Artifacts/Crown & Cudgel.md",
+    "Gods And Divine Beings/Gods.md",
     "Gods And Divine Beings/Untitled/Untitled",
     "Gods And Divine Beings/DemiRealms",
     "Gods And Divine Beings/Artifacts",
-    "Grace Arcs/The Duke/Trackers.md",
-    "Grace Arcs/The Duke/Locations/Towns/Ligna.md",
     "Grace Arcs/The Duke/D Devil Table.md",
     "Grace Arcs/Dreamwalker.md",
     "Grace Arcs/Da Spyte Kellers.md",
     "Grace Arcs/The Duke/The Duke of Naught.md",
-    "Grace Arcs/The Duke/Locations/Towns/Dertona.md",
     "Gods And Divine Beings/Vorin The Forgefather.md",
     "Gods And Divine Beings/Geldrax.md",
     "Gods And Divine Beings",
     "Gods.md",
-    "Players/Syldanthil Esothrel.md",
-    "Jeaun Moreau.md",
-    "Maik Moritz.md",
-    "Players/Leo Beaumont.md",
-    "Players/Rutherford Cleft.md",
-    "Players/Willow Calyx.md",
-    "Grace Arcs/Trackers.md",
-    "Grace Arcs/The Duke/Side Quests/Vale do Lobo.md",
-    "Grace Arcs/The Duke/Side Quests/Bogeyman.md",
-    "Grace Arcs/The Duke/Side Quests/Funeral Pyres.md",
-    "Grace Arcs/The Duke/Encounter Table.md",
-    "Vorin The Forgefather.md",
     "ToscanaRegions.png",
-    "Realm of Evocation/Irinau/Irinau.md",
-    "Realm of Evocation/Haast/Haast.md",
     "Maik_Moritz.jpg",
     "Joost_Slag.png",
     "Realm of Evocation/The Pirate Republic/Mama Magda.jpg",
