@@ -237,8 +237,8 @@
             "state": {
               "type": "pomodoro-history-view",
               "state": {},
-              "icon": "alarm-clock",
-              "title": "Pomodoro"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
