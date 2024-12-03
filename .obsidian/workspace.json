@@ -4,53 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "caf04e798b611334",
+        "id": "1e4afb715d933eed",
         "type": "tabs",
         "children": [
           {
-            "id": "78ba01f93c2dbba8",
+            "id": "b7911d1d7faacbfc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jeaun Moreau.md",
+                "file": "Realm of Evocation/Toscana/Clans/Clan Horatia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jeaun Moreau"
+              "title": "Clan Horatia"
             }
           },
           {
-            "id": "b5f227ef70686733",
+            "id": "9d4faa1943526277",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maik Moritz.md",
+                "file": "Realm of Evocation/Toscana/Clans/Clan Quintus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maik Moritz"
+              "title": "Clan Quintus"
             }
           },
           {
-            "id": "2c29b3e0ae947636",
+            "id": "e85784007eacc342",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Players/Syldanthil Esothrel.md",
+                "file": "Realm of Evocation/Toscana/Regions/Quintus Fields.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Syldanthil Esothrel"
+              "title": "Quintus Fields"
             }
           },
           {
-            "id": "e0473673c4c9e06d",
+            "id": "9c8d25e2f125dbcb",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -58,51 +58,9 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "d6dad727360cf4c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Grace Arcs/The Duke/Locations/Towns/Dertona.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dertona"
-            }
-          },
-          {
-            "id": "e7ac5b6d80117511",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Grace Arcs/Marcus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Marcus"
-            }
-          },
-          {
-            "id": "bfb7a42bb484cf92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Grace Arcs/The Duke/Side Quests/Childhood Friend.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Childhood Friend"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -124,7 +82,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "File explorer"
+              "title": "Files"
             }
           },
           {
@@ -251,16 +209,6 @@
             }
           },
           {
-            "id": "50b0a2f6a2862b0b",
-            "type": "leaf",
-            "state": {
-              "type": "pomodoro-history-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
             "id": "6d35e5937ad7b880",
             "type": "leaf",
             "state": {
@@ -279,22 +227,22 @@
                 },
                 "id": "ID_eaba1aa99888"
               },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
-            "id": "85b6e21a06bfb27e",
+            "id": "2698e5d38dab8197",
             "type": "leaf",
             "state": {
-              "type": "PROGRESS_CLOCKS_VIEW",
+              "type": "pomodoro-history-view",
               "state": {},
-              "icon": "pie-chart",
-              "title": "Progress Clocks"
+              "icon": "alarm-clock",
+              "title": "Pomodoro"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -303,7 +251,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "daily-notes:Open today's note": false,
+      "daily-notes:Open today's daily note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -317,38 +265,36 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "bfb7a42bb484cf92",
+  "active": "9c8d25e2f125dbcb",
   "lastOpenFiles": [
-    "Grace Arcs/Imperium Defense",
+    "Realm of Evocation/Toscana/Clans/Clan Quintus.md",
+    "Realm of Evocation/Toscana/Clans/Clan Horatia.md",
+    "Realm of Evocation/Toscana/Regions/Horatia Plains.md",
+    "Realm of Evocation/Toscana/Regions/Quintus Fields.md",
+    "Terras da Colheita.md",
+    "Terras de Oliveira.md",
+    "Lord Jeaun Moreau.md",
+    "Realm of Evocation/Toscana/People/Quintus Resistance/Matriarch Valentina Silva das Vinhas.md",
+    "House Galván de la Furia Roja.md",
     "Grace Arcs/The Duke/Side Quests/A Towerful of Tears.md",
-    "Jeaun Moreau.md",
-    "Players/Willow Calyx.md",
-    "Players/Leo Beaumont.md",
-    "Grace Arcs/Marcus.md",
-    "Grace Arcs/The Duke/People/Cispia Galera.md",
-    "Grace Arcs/The Duke/Locations/Towns/Tolosa.md",
-    "Grace Arcs/The Duke/Side Quests/Childhood Friend.md",
-    "Grace Arcs/The Duke/Locations/Towns/Dertona.md",
-    "2024-11-22.md",
-    "Grace Arcs/The Duke/Side Quests/Graveyard Maintenance.md",
-    "Grace Arcs/The Duke/Locations/Towns/Ligna.md",
-    "Grace Arcs/The Duke/Locations/Towns/Fonte Fria.md",
-    "Grace Arcs/The Duke/Trackers.md",
-    "Grace Arcs/The Duke/Side Quests/Funeral Pyres.md",
-    "Grace Arcs/The Duke/Side Quests/Vale do Lobo.md",
-    "Gods And Divine Beings/Artifacts/Crown & Cudgel.md",
-    "Gods And Divine Beings/Gods.md",
-    "Gods And Divine Beings/Untitled/Untitled",
-    "Gods And Divine Beings/DemiRealms",
+    "House De los Montes Eternos.md",
+    "House Navarro de los Susurros.md",
+    "House Esparza de la Flor Negra.md",
+    "House Del Río Dorado.md",
+    "House Benavides de las Sombras.md",
+    "House Toledo de los Acero Vivo.md",
+    "House Fernández de la Luna Plateada.md",
+    "House Rojas de Sangre Fértil.md",
+    "House Del Castillo de las Estrellas.md",
+    "House Llanes de los Milagros.md",
+    "House Serrano del Mar Profundo.md",
+    "House Ortega del Alba.md",
+    "House Vargas de los Vientos.md",
+    "House De la Torre Oscura.md",
+    "House Montalbán de las Nieves.md",
+    "House Castro de la Llama.md",
     "Gods And Divine Beings/Artifacts",
-    "Grace Arcs/The Duke/D Devil Table.md",
-    "Grace Arcs/Dreamwalker.md",
-    "Grace Arcs/Da Spyte Kellers.md",
-    "Grace Arcs/The Duke/The Duke of Naught.md",
-    "Gods And Divine Beings/Vorin The Forgefather.md",
-    "Gods And Divine Beings/Geldrax.md",
     "Gods And Divine Beings",
-    "Gods.md",
     "ToscanaRegions.png",
     "Maik_Moritz.jpg",
     "Joost_Slag.png",
@@ -359,9 +305,11 @@
     "Grace Arcs/Military Forces/Untitled",
     "Grace Arcs/Military Forces",
     "Grace Arcs/The Duke/Side Quests",
+    "HammerFall Disposal Unit",
     "ToscanaRegions 1.png",
     "The Southport.png",
     "The Baron.png",
+    "Realm of Evocation/Araluuen/People of Note",
     "Zheng Yi Sao.png",
     "Realm of Evocation/The Pirate Republic/Marshall Teach.png",
     "Realm of Evocation/The Pirate Republic/Adrian Karlsson.png"
