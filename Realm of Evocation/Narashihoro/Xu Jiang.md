@@ -1,0 +1,1 @@
+Revolutionary along with [[Yi Shun]]
