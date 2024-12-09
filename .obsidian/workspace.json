@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "One Shots/Kantai Kessen/Kantai Kessen.md",
+                "file": "Realm of Evocation/Country Unspecific Organizations/Forgotten/The Forgotten.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kantai Kessen"
+              "title": "The Forgotten"
             }
           }
         ],
@@ -86,7 +86,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "File explorer"
             }
           },
           {
@@ -255,7 +255,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "daily-notes:Open today's daily note": false,
+      "daily-notes:Open today's note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -271,8 +271,11 @@
   },
   "active": "9c8d25e2f125dbcb",
   "lastOpenFiles": [
-    "Realm of Evocation/Narashihoro/Xu Jiang.md",
     "One Shots/Kantai Kessen/Kantai Kessen.md",
+    "Realm of Evocation/Country Unspecific Organizations/Forgotten/The Forgotten.md",
+    "Realm of Evocation/Country Unspecific Organizations/Forgotten",
+    "Realm of Evocation/Country Unspecific Organizations",
+    "Realm of Evocation/Narashihoro/Xu Jiang.md",
     "One Shots/Kantai Kessen",
     "One Shots",
     "Realm of Evocation/Narashihoro",
@@ -299,7 +302,6 @@
     "House Serrano del Mar Profundo.md",
     "House Ortega del Alba.md",
     "House Vargas de los Vientos.md",
-    "House De la Torre Oscura.md",
     "Gods And Divine Beings/Artifacts",
     "Gods And Divine Beings",
     "ToscanaRegions.png",
@@ -309,8 +311,6 @@
     "Grace Arcs/The Duke/Locations/Forts",
     "Grace Arcs/The Duke/Locations/Roadside Inns",
     "Grace Arcs/The Duke/Locations/Towns",
-    "Grace Arcs/Military Forces/Untitled",
-    "Grace Arcs/Military Forces",
     "ToscanaRegions 1.png",
     "The Southport.png",
     "The Baron.png",
