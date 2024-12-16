@@ -88,5 +88,8 @@
 	- **Description**: Nothing is known of Azmodeus before his ascension, or rather, there are too many stories, there are at least 16 provable instances of mortal ascending to become the being known as Azmodeus and they all conflict. Azmodeus's [[Demirealm]] is one of facades where the only real building is an arena in which sits a throne and the red robed figure with a golden crown under the crimson sun surrounded by the corpses who did not have the strength to claim it. 
 11. [[Judicar]], 2 faced god of justice
 	- **Domain**: Justice and Revenge.
-	- **Description**: Judicar was a revolutionary in [[At Tadhimiya]] in the time it was a colony of [[Haast]], known as a honourable warrior for peace to the locals and as a brutal slaughterer to Haastians. Judicar so embraced that duality, dispensing both justice while blessing those on a path to revenge.
+	- **Description**: Judicar was a revolutionary in [[At Tadhimiya]] in the time it was a colony of [[Haast]], known as a honourable warrior for peace to the locals and as a brutal slaughterer to Haastians. Judicar so embraced that duality, dispensing both justice while blessing those on a path to revenge. He shows himself as wearing a spiked suit of armour with a Scimitar on his left half and a white robe and crown on his right half.
 ## The Lost Gods
+## Saints of The Old Gods
+Some mortals while embodying great ideals and achieving feats akin to those who ascended to godhood could not do so due to such actions being taken in worship of another, instead such people became not gods but saints, heralds of their patrons divine will to descend upon the world when their deity deigns it necessary.
+	[[Saint Tulin]], Saint of Geldrax.

@@ -1,0 +1,22 @@
+The sect of challengers takes their deities domain of life as a gift to be used to its greatest extent. Members of this sect choose a challenge when they become a part of it and must single-mindedly dedicate the life they were given to fulfil that challenge in the name of [[Veridia]]. Members of this sect are often seen as obsessive to the point of scaring people, few are those that can last in this sect from the pressure to spend every waking minute pouring your entire being into every action to some nigh on impossible goal.
+## Types of Challenge
+Anyone can join the sect, but few have the mettle to remain in it, when joining this sect they must officially register at a church of Veridia to have their name carved into its walls along with the challenge, as their names are engraved onto the wall so too is their status as a challenger engraved into their skin. 
+There are no restrictions as to the nature of the challenge one can choose but it is generally accepted that it must truly be challenging to be considered truly worthy.
+A member of the sect is allowed one hour free time each week outside of sleep and meals but must otherwise spend their waking life contributing in some way towards their challenge, this is where most new challengers fail.
+Challenges are broadly divided into 3 kinds but specific challenges can mingle a few of those:
+#### Challenge of the Mind
+#### Challenge of the Body
+#### Challenge of the Soul
+## Tenets
+### Death before failure
+The only way to truly fail other than to choose to fail is to die, but those who die on the path of the challenger are revered, those who walked the red hot coals and only stopped due to that which they could not avoid or can not remedy are the most sacred of records, when a challenger dies in service of their challenge the church that inscribed their name must remove the section of wall with their name and challenge and have it sent to Starsborne to be added to the [[Hall of Challenge]] where the names and challenges of true members are forever kept in a holy sanctum to Veridia.
+### Failure is only acceptance
+One has only ever truly failed if they have resigned to that idea, to a true challenger failure only comes with death. Challenges which are time sensitive are not considered failure at the passing of the deadline, it is simply expected that the challenger find a way to reverse the flow of time to fulfil their challenge, literally.
+### Success is a path not a goal
+A goal is never truly fulfilled, it will eternally be in the path of being fulfilled, even a goal with a clear end must be worked towards after its completion, to maintain the desired end or to work in the spirit of the goal. Members who remain and embody this rule are considered exalted within the sect.
+
+-------
+# Notable Subsections
+The sect of challengers also represents the only facet of the worshipers of Veridia that have members that defend her tenets through combat, similar to [[The Sect of Shrikes]] for [[Garek]] or  [[The Sunborne]] for [[Solarius]], and while counting less among their members than either of those groups challengers are often viewed as more fearsome foes than either of the others due to their single minded pursuit of their goals, fully willing to die to fulfil them. Unlike those other groups challengers also have no single tactic that all employ or train in, each challenger is unique in their style and work, making this branch incredibly versatile. They are also terrifying to face as every one of these members would rather die than cede a single centimetre to those their consider their opponents, members of this group are known to have inhuman endurance often fighting for a week without sleep, water or food, only stopping once those they consider enemies are fully eradicated. They are not fools however, their challenge to martial prowess is not purely physical, this groups counts some of the worlds greatest tacticians among their numbers, a challenger will fulfil their goal and that will always be their primary objective, they are willing to fight to the death but might not if that would set back the objective, in this way they have the potential for great feats of both strength and cunning.
+"Our only constant is competence."
+	-[[Ahar Moore]], exalted challenger of [[Veridia]], Right hand of [[Judicar]], liberator of [[At Tadhimiya]].
