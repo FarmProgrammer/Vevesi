@@ -6,6 +6,7 @@
 
 #### 3 - Blow up the church.
 ### Parents: [[Paracelsus]]
+subject 531
 
 ### Joined
 As a prisoner 3rd gun levy company
